@@ -1,1052 +1,1760 @@
 [
   {
-    "id": 1,
-    "question": "The headquarters of the United Nations is located in?",
-    "options": ["A) Geneva", "B) New York", "C) Paris", "D) London"],
-    "answer": "B) New York",
-    "explanation": "The UN headquarters is in New York City and serves as the main venue for international diplomacy and global policymaking."
-  },
-  {
-    "id": 2,
-    "question": "The World Bank headquarters is located in?",
-    "options": ["A) Paris", "B) London", "C) Washington, D.C.", "D) Geneva"],
-    "answer": "C) Washington, D.C.",
-    "explanation": "The World Bank provides financial and technical assistance to developing countries and is headquartered in Washington, D.C.."
-  },
-  {
-    "id": 3,
-    "question": "The International Monetary Fund (IMF) is headquartered in?",
-    "options": ["A) London", "B) Washington, D.C.", "C) New York", "D) Geneva"],
-    "answer": "B) Washington, D.C.",
-    "explanation": "IMF provides financial support and policy advice to member countries and is based in Washington, D.C."
-  },
-  {
-    "id": 4,
-    "question": "The headquarters of WHO (World Health Organization) is located in?",
-    "options": ["A) Paris", "B) New York", "C) Geneva", "D) London"],
-    "answer": "C) Geneva",
-    "explanation": "WHO, headquartered in Geneva, coordinates international health policies and responds to global health emergencies."
-  },
-  {
-    "id": 5,
-    "question": "The headquarters of UNESCO is located in?",
-    "options": ["A) Geneva", "B) Paris", "C) Vienna", "D) Rome"],
-    "answer": "B) Paris",
-    "explanation": "UNESCO works to promote education, science, and cultural collaboration worldwide from its Paris headquarters."
-  },
-  {
-    "id": 6,
-    "question": "The headquarters of NATO (North Atlantic Treaty Organization) is located in?",
-    "options": ["A) Brussels", "B) London", "C) Washington, D.C.", "D) Berlin"],
-    "answer": "A) Brussels",
-    "explanation": "NATO, a military alliance of North American and European countries, has its central command in Brussels, Belgium."
-  },
-  {
-    "id": 7,
-    "question": "The International Court of Justice (ICJ) is headquartered in?",
-    "options": ["A) The Hague", "B) Geneva", "C) New York", "D) London"],
-    "answer": "A) The Hague",
-    "explanation": "ICJ, the principal judicial organ of the UN, settles disputes between countries and is based in The Hague, Netherlands."
-  },
-  {
-    "id": 8,
-    "question": "The headquarters of World Trade Organization (WTO) is in?",
-    "options": ["A) Paris", "B) Geneva", "C) London", "D) New York"],
-    "answer": "B) Geneva",
-    "explanation": "WTO oversees global trade rules and negotiations and operates from Geneva, Switzerland."
-  },
-  {
-    "id": 9,
-    "question": "The headquarters of International Labour Organization (ILO) is located in?",
-    "options": ["A) Geneva", "B) Paris", "C) New York", "D) Brussels"],
-    "answer": "A) Geneva",
-    "explanation": "ILO promotes workers’ rights, employment, and social justice and is headquartered in Geneva."
-  },
-  {
-    "id": 10,
-    "question": "The headquarters of UNICEF is located in?",
-    "options": ["A) New York", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) New York",
-    "explanation": "UNICEF, a UN agency for children’s welfare and rights, operates from New York City."
-  },
-  {
-    "id": 11,
-    "question": "The headquarters of FAO (Food and Agriculture Organization) is located in?",
-    "options": ["A) Paris", "B) Rome", "C) Geneva", "D) London"],
-    "answer": "B) Rome",
-    "explanation": "FAO works on eradicating hunger and improving food security worldwide, headquartered in Rome, Italy."
-  },
-  {
-    "id": 12,
-    "question": "The headquarters of International Atomic Energy Agency (IAEA) is in?",
-    "options": ["A) Vienna", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) Vienna",
-    "explanation": "IAEA promotes safe and peaceful use of nuclear energy, and its headquarters is in Vienna, Austria."
-  },
-  {
-    "id": 13,
-    "question": "The headquarters of Asian Development Bank (ADB) is located in?",
-    "options": ["A) Manila", "B) Tokyo", "C) Bangkok", "D) Singapore"],
-    "answer": "A) Manila",
-    "explanation": "ADB provides financial and technical assistance to Asian countries, headquartered in Manila, Philippines."
-  },
-  {
-    "id": 14,
-    "question": "The headquarters of SAARC (South Asian Association for Regional Cooperation) is in?",
-    "options": ["A) Dhaka", "B) Kathmandu", "C) Colombo", "D) New Delhi"],
-    "answer": "B) Kathmandu",
-    "explanation": "SAARC promotes regional cooperation in South Asia, with its secretariat in Kathmandu, Nepal."
-  },
-  {
-    "id": 15,
-    "question": "The headquarters of BRICS is located in?",
-    "options": ["A) Moscow", "B) Beijing", "C) New Delhi", "D) No permanent headquarters"],
-    "answer": "D) No permanent headquarters",
-    "explanation": "BRICS, a group of emerging economies, rotates its chairmanship annually and has no permanent secretariat."
-  },
-  {
-    "id": 16,
-    "question": "The headquarters of ASEAN (Association of Southeast Asian Nations) is in?",
-    "options": ["A) Singapore", "B) Bangkok", "C) Jakarta", "D) Kuala Lumpur"],
-    "answer": "C) Jakarta",
-    "explanation": "ASEAN promotes economic, political, and security cooperation among Southeast Asian countries, headquartered in Jakarta, Indonesia."
-  },
-  {
-    "id": 17,
-    "question": "The headquarters of International Telecommunication Union (ITU) is located in?",
-    "options": ["A) New York", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "B) Geneva",
-    "explanation": "ITU develops standards and policies for global telecommunication and is based in Geneva, Switzerland."
-  },
-  {
-    "id": 18,
-    "question": "The headquarters of World Meteorological Organization (WMO) is in?",
-    "options": ["A) Paris", "B) Geneva", "C) London", "D) Rome"],
-    "answer": "B) Geneva",
-    "explanation": "WMO coordinates weather, climate, and water-related data globally from Geneva."
-  },
-  {
-    "id": 19,
-    "question": "The headquarters of International Civil Aviation Organization (ICAO) is located in?",
-    "options": ["A) Montreal", "B) New York", "C) Geneva", "D) Paris"],
-    "answer": "A) Montreal",
-    "explanation": "ICAO sets standards and regulations for international aviation and operates from Montreal, Canada."
-  },
-  {
-    "id": 20,
-    "question": "The headquarters of International Fund for Agricultural Development (IFAD) is in?",
-    "options": ["A) Geneva", "B) Rome", "C) Paris", "D) New York"],
-    "answer": "B) Rome",
-    "explanation": "IFAD provides financial support to rural poor farmers and is headquartered in Rome, Italy."
-  },
-  {
-    "id": 21,
-    "question": "The headquarters of OPEC (Organization of Petroleum Exporting Countries) is in?",
-    "options": ["A) Riyadh", "B) Vienna", "C) Doha", "D) Baghdad"],
-    "answer": "B) Vienna",
-    "explanation": "OPEC coordinates petroleum policies among member countries, and its secretariat is in Vienna, Austria."
-  },
-  {
-    "id": 22,
-    "question": "The headquarters of IMF (International Monetary Fund) is located in?",
-    "options": ["A) Paris", "B) London", "C) Washington, D.C.", "D) Geneva"],
-    "answer": "C) Washington, D.C.",
-    "explanation": "IMF provides financial stability, loans, and policy advice to member nations from Washington, D.C."
-  },
-  {
-    "id": 23,
-    "question": "The headquarters of World Health Organization (WHO) is in?",
-    "options": ["A) Paris", "B) Geneva", "C) New York", "D) Rome"],
-    "answer": "B) Geneva",
-    "explanation": "WHO coordinates global public health policies and responses from its Geneva headquarters."
-  },
-  {
-    "id": 24,
-    "question": "The headquarters of World Intellectual Property Organization (WIPO) is located in?",
-    "options": ["A) Paris", "B) London", "C) Geneva", "D) Vienna"],
-    "answer": "C) Geneva",
-    "explanation": "WIPO protects intellectual property rights globally and is headquartered in Geneva, Switzerland."
-  },
-  {
-    "id": 25,
-    "question": "The headquarters of International Court of Justice (ICJ) is in?",
-    "options": ["A) The Hague", "B) Geneva", "C) Paris", "D) New York"],
-    "answer": "A) The Hague",
-    "explanation": "ICJ resolves legal disputes between countries and is the UN’s principal judicial organ based in The Hague."
-  },
-  {
-    "id": 26,
-    "question": "The headquarters of UNICEF is in?",
-    "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
-    "answer": "C) New York",
-    "explanation": "UNICEF supports children’s health, education, and welfare worldwide from New York."
-  },
-  {
-    "id": 27,
-    "question": "The headquarters of World Food Programme (WFP) is in?",
-    "options": ["A) Rome", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "B) Rome",
-    "explanation": "WFP addresses hunger and food security globally, and its headquarters is in Rome, Italy."
-  },
-  {
-    "id": 28,
-    "question": "The headquarters of International Labour Organization (ILO) is located in?",
-    "options": ["A) Geneva", "B) New York", "C) Paris", "D) London"],
-    "answer": "A) Geneva",
-    "explanation": "ILO promotes workers’ rights, employment, and social justice and is headquartered in Geneva, Switzerland."
-  },
-  {
-    "id": 29,
-    "question": "The headquarters of Asian Infrastructure Investment Bank (AIIB) is in?",
-    "options": ["A) Singapore", "B) Beijing", "C) Tokyo", "D) New Delhi"],
-    "answer": "B) Beijing",
-    "explanation": "AIIB finances infrastructure projects across Asia and is headquartered in Beijing, China."
-  },
-  {
-    "id": 30,
-    "question": "The headquarters of Organisation of Islamic Cooperation (OIC) is in?",
-    "options": ["A) Jeddah", "B) Riyadh", "C) Cairo", "D) Istanbul"],
-    "answer": "A) Jeddah",
-    "explanation": "OIC promotes solidarity among Muslim countries and is headquartered in Jeddah, Saudi Arabia."
-  },
-  {
-    "id": 31,
-    "question": "The headquarters of International Red Cross and Red Crescent Movement is in?",
-    "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
-    "answer": "A) Geneva",
-    "explanation": "The Red Cross/Red Crescent coordinates humanitarian aid and disaster relief from Geneva, Switzerland."
-  },
-  {
-    "id": 32,
-    "question": "The headquarters of BRICS has a permanent secretariat in?",
-    "options": ["A) Moscow", "B) Beijing", "C) New Delhi", "D) No permanent secretariat"],
-    "answer": "D) No permanent secretariat",
-    "explanation": "BRICS rotates its chairmanship annually and does not maintain a fixed headquarters."
-  },
-  {
-    "id": 33,
-    "question": "The headquarters of International Criminal Police Organization (INTERPOL) is in?",
-    "options": ["A) Lyon", "B) Paris", "C) Brussels", "D) Berlin"],
-    "answer": "A) Lyon",
-    "explanation": "INTERPOL facilitates international police cooperation and is headquartered in Lyon, France."
-  },
-  {
-    "id": 34,
-    "question": "The headquarters of Food and Agriculture Organization (FAO) is located in?",
-    "options": ["A) Rome", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) Rome",
-    "explanation": "FAO works to eradicate hunger and improve agriculture worldwide from Rome, Italy."
-  },
-  {
-    "id": 35,
-    "question": "The headquarters of International Telecommunication Union (ITU) is in?",
-    "options": ["A) Geneva", "B) Paris", "C) London", "D) Vienna"],
-    "answer": "A) Geneva",
-    "explanation": "ITU develops global telecommunication standards and policies, headquartered in Geneva, Switzerland."
-  },
-  {
-    "id": 36,
-    "question": "The headquarters of World Trade Organization (WTO) is located in?",
-    "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
-    "answer": "A) Geneva",
-    "explanation": "WTO oversees global trade rules, negotiations, and dispute resolution from Geneva."
-  },
-  {
-    "id": 37,
-    "question": "The headquarters of International Atomic Energy Agency (IAEA) is in?",
-    "options": ["A) Vienna", "B) Geneva", "C) Paris", "D) Rome"],
-    "answer": "A) Vienna",
-    "explanation": "IAEA promotes safe and peaceful nuclear energy use from its Vienna headquarters."
-  },
-  {
-    "id": 38,
-    "question": "The headquarters of African Union (AU) is located in?",
-    "options": ["A) Addis Ababa", "B) Nairobi", "C) Cairo", "D) Johannesburg"],
-    "answer": "A) Addis Ababa",
-    "explanation": "AU promotes political, economic, and social integration among African nations from Ethiopia’s capital."
-  },
-  {
-    "id": 39,
-    "question": "The headquarters of Commonwealth of Nations is in?",
-    "options": ["A) London", "B) New York", "C) Geneva", "D) Paris"],
-    "answer": "A) London",
-    "explanation": "The Commonwealth Secretariat in London coordinates cooperation among member countries."
-  },
-  {
-    "id": 40,
-    "question": "The headquarters of Organisation for Economic Co-operation and Development (OECD) is in?",
-    "options": ["A) Paris", "B) Geneva", "C) London", "D) Brussels"],
-    "answer": "A) Paris",
-    "explanation": "OECD promotes economic growth, trade, and development and is headquartered in Paris, France."
-  },
-  {
-    "id": 41,
-    "question": "The headquarters of International Fund for Agricultural Development (IFAD) is located in?",
-    "options": ["A) Rome", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) Rome",
-    "explanation": "IFAD supports rural development and agriculture financing from its Rome headquarters."
-  },
-  {
-    "id": 42,
-    "question": "The headquarters of Asian Development Bank (ADB) is in?",
-    "options": ["A) Manila", "B) Tokyo", "C) Bangkok", "D) Singapore"],
-    "answer": "A) Manila",
-    "explanation": "ADB provides financial assistance and technical support to Asian countries from Manila, Philippines."
-  },
-  {
-    "id": 43,
-    "question": "The headquarters of Organisation of Petroleum Exporting Countries (OPEC) is in?",
-    "options": ["A) Vienna", "B) Riyadh", "C) Baghdad", "D) Doha"],
-    "answer": "A) Vienna",
-    "explanation": "OPEC coordinates petroleum policies among member countries from Vienna, Austria."
-  },
-  {
-    "id": 44,
-    "question": "The headquarters of SAARC (South Asian Association for Regional Cooperation) is in?",
-    "options": ["A) Kathmandu", "B) Dhaka", "C) New Delhi", "D) Colombo"],
-    "answer": "A) Kathmandu",
-    "explanation": "SAARC promotes regional cooperation in South Asia from its secretariat in Kathmandu, Nepal."
-  },
-  {
-    "id": 45,
-    "question": "The headquarters of ASEAN (Association of Southeast Asian Nations) is in?",
-    "options": ["A) Jakarta", "B) Singapore", "C) Bangkok", "D) Kuala Lumpur"],
-    "answer": "A) Jakarta",
-    "explanation": "ASEAN coordinates economic, political, and security cooperation among Southeast Asian nations from Jakarta."
-  },
-  {
-    "id": 46,
-    "question": "The headquarters of International Civil Aviation Organization (ICAO) is located in?",
-    "options": ["A) Montreal", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) Montreal",
-    "explanation": "ICAO sets global aviation standards and ensures safe and orderly air transport from Montreal, Canada."
-  },
-  {
-    "id": 47,
-    "question": "The headquarters of International Monetary Fund (IMF) is in?",
-    "options": ["A) Washington, D.C.", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) Washington, D.C.",
-    "explanation": "IMF provides loans, policy guidance, and economic support from its Washington, D.C. headquarters."
-  },
-  {
-    "id": 48,
-    "question": "The headquarters of World Bank is located in?",
-    "options": ["A) Washington, D.C.", "B) Geneva", "C) Paris", "D) London"],
-    "answer": "A) Washington, D.C.",
-    "explanation": "World Bank finances development projects globally and is headquartered in Washington, D.C."
-  },
-  {
-    "id": 49,
-    "question": "The headquarters of International Red Cross is in?",
-    "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
-    "answer": "A) Geneva",
-    "explanation": "The Red Cross coordinates humanitarian aid and emergency relief operations from Geneva."
-  },
-  {
-    "id": 50,
-    "question": "The headquarters of Organisation of Islamic Cooperation (OIC) is in?",
-    "options": ["A) Jeddah", "B) Riyadh", "C) Cairo", "D) Istanbul"],
-    "answer": "A) Jeddah",
-    "explanation": "OIC promotes solidarity among Muslim countries and is headquartered in Jeddah, Saudi Arabia."
-  },
-  {
-    "id": 51,
-    "question": "Exercise SHAKTI is conducted between India and which country?",
-    "options": ["A) France", "B) USA", "C) Russia", "D) Japan"],
-    "answer": "A) France",
-    "explanation": "Exercise SHAKTI is an India–France Army exercise focusing on counter-terrorism and joint operational tactics."
-  },
-  {
-    "id": 52,
-    "question": "SIMBEX is a bilateral naval exercise between India and which country?",
-    "options": ["A) Sri Lanka", "B) Singapore", "C) Indonesia", "D) Bangladesh"],
-    "answer": "B) Singapore",
-    "explanation": "SIMBEX (Singapore–India Maritime Bilateral Exercise) strengthens naval cooperation and interoperability in maritime security."
-  },
-  {
-    "id": 53,
-    "question": "Mitra Shakti is an army exercise between India and which country?",
-    "options": ["A) Nepal", "B) Sri Lanka", "C) Bhutan", "D) Maldives"],
-    "answer": "B) Sri Lanka",
-    "explanation": "Mitra Shakti focuses on counter-insurgency operations and defense cooperation between Indian and Sri Lankan armies."
-  },
-  {
-    "id": 54,
-    "question": "Yudh Abhyas is a joint army exercise between India and which country?",
-    "options": ["A) USA", "B) China", "C) Russia", "D) France"],
-    "answer": "A) USA",
-    "explanation": "Yudh Abhyas enhances joint military training and tactical exercises with US and Indian armies."
-  },
-  {
-    "id": 55,
-    "question": "Exercise Garuda is conducted between India and which country's Air Force?",
-    "options": ["A) France", "B) Russia", "C) USA", "D) UK"],
-    "answer": "A) France",
-    "explanation": "Garuda is an India–France Air Force exercise aimed at strengthening aerial cooperation and operational readiness."
-  },
-  {
-    "id": 56,
-    "question": "JIMEX is a naval exercise between India and which country?",
-    "options": ["A) Japan", "B) USA", "C) Australia", "D) UK"],
-    "answer": "A) Japan",
-    "explanation": "JIMEX (Japan–India Maritime Exercise) focuses on maritime security, anti-piracy, and joint naval maneuvers."
-  },
-  {
-    "id": 57,
-    "question": "Garud Shakti is a bilateral army exercise with which country?",
-    "options": ["A) Indonesia", "B) Malaysia", "C) France", "D) Singapore"],
-    "answer": "A) Indonesia",
-    "explanation": "Garud Shakti aims to improve joint counter-terrorism operations and strengthen defense ties with Indonesia."
-  },
-  {
-    "id": 58,
-    "question": "Exercise DHARMA GUARDIAN is held with which country?",
-    "options": ["A) Japan", "B) China", "C) South Korea", "D) USA"],
-    "answer": "A) Japan",
-    "explanation": "Dharma Guardian is an Indian–Japanese army exercise focusing on counter-terrorism and disaster relief training."
-  },
-  {
-    "id": 59,
-    "question": "SLINEX is a bilateral naval exercise with which country?",
-    "options": ["A) Sri Lanka", "B) Singapore", "C) Bangladesh", "D) Maldives"],
-    "answer": "A) Sri Lanka",
-    "explanation": "SLINEX promotes maritime cooperation between Indian and Sri Lankan navies in the Indian Ocean region."
-  },
-  {
-    "id": 60,
-    "question": "Exercise CYCLONE is conducted between India and which country?",
-    "options": ["A) Egypt", "B) UK", "C) Germany", "D) USA"],
-    "answer": "A) Egypt",
-    "explanation": "CYCLONE is a joint military exercise with Egypt focusing on counter-terrorism and operational coordination."
-  },
-  {
-    "id": 61,
-    "question": "Vajra Prahar is a special forces exercise between India and which country?",
-    "options": ["A) USA", "B) UK", "C) Australia", "D) Germany"],
-    "answer": "A) USA",
-    "explanation": "Vajra Prahar enhances special forces interoperability between India and the US, focusing on counter-terrorism operations."
-  },
-  {
-    "id": 62,
-    "question": "INDRA exercise is held between India and which country?",
-    "options": ["A) Russia", "B) France", "C) USA", "D) UK"],
-    "answer": "A) Russia",
-    "explanation": "Exercise INDRA includes army, navy, and air force components to strengthen India–Russia military cooperation."
-  },
-  {
-    "id": 63,
-    "question": "Konkan naval exercise is conducted between India and which country?",
-    "options": ["A) UK", "B) France", "C) USA", "D) Japan"],
-    "answer": "A) UK",
-    "explanation": "Konkan promotes joint naval operations and maritime security exercises with the Royal Navy of the UK."
-  },
-  {
-    "id": 64,
-    "question": "Mitra Shakti 2023 focused primarily on?",
-    "options": ["A) Counter-terrorism", "B) Cybersecurity", "C) Space operations", "D) Naval warfare"],
-    "answer": "A) Counter-terrorism",
-    "explanation": "Mitra Shakti strengthens counter-insurgency and tactical operations between India and Sri Lanka."
-  },
-  {
-    "id": 65,
-    "question": "Exercise Hand-in-Hand is conducted with which country?",
-    "options": ["A) China", "B) Russia", "C) Japan", "D) France"],
-    "answer": "A) China",
-    "explanation": "Hand-in-Hand is a joint counter-terrorism and counter-insurgency exercise between the armies of India and China."
-  },
-  {
-    "id": 66,
-    "question": "Nomadic Elephant is a bilateral exercise with which country?",
-    "options": ["A) Mongolia", "B) Nepal", "C) Bhutan", "D) Russia"],
-    "answer": "A) Mongolia",
-    "explanation": "Nomadic Elephant enhances military cooperation and training between Indian and Mongolian armies."
-  },
-  {
-    "id": 67,
-    "question": "Exercise INDRA NAVY is held between India and which country?",
-    "options": ["A) Russia", "B) France", "C) USA", "D) Japan"],
-    "answer": "A) Russia",
-    "explanation": "INDRA NAVY strengthens naval coordination, joint maneuvers, and maritime security with Russia."
-  },
-  {
-    "id": 68,
-    "question": "Vajra Kavach is a joint exercise with which country?",
-    "options": ["A) USA", "B) UK", "C) France", "D) Germany"],
-    "answer": "A) USA",
-    "explanation": "Vajra Kavach focuses on special forces tactical drills and counter-terror operations."
-  },
-  {
-    "id": 69,
-    "question": "Exercise Surya Kiran is conducted with which country?",
-    "options": ["A) Nepal", "B) Bangladesh", "C) Bhutan", "D) Sri Lanka"],
-    "answer": "A) Nepal",
-    "explanation": "Surya Kiran aims at joint military training and disaster management cooperation with the Nepali Army."
-  },
-  {
-    "id": 70,
-    "question": "Exercise Mitra Shakti promotes defense cooperation primarily in which region?",
-    "options": ["A) South Asia", "B) Middle East", "C) Southeast Asia", "D) Africa"],
-    "answer": "A) South Asia",
-    "explanation": "Mitra Shakti strengthens India’s military ties and operational coordination with Sri Lanka, enhancing regional security."
-  },
-  {
-    "id": 71,
-    "question": "Exercise Shakti 2022 focused on which domain?",
-    "options": ["A) Counter-terrorism", "B) Cybersecurity", "C) Naval warfare", "D) Space operations"],
-    "answer": "A) Counter-terrorism",
-    "explanation": "India–France exercise SHAKTI focuses on counter-terrorism drills and joint operational readiness for army units."
-  },
-  {
-    "id": 72,
-    "question": "Exercise Yudh Abhyas is primarily conducted in which terrain?",
-    "options": ["A) Desert", "B) Mountain", "C) Coastal", "D) Urban"],
-    "answer": "B) Mountain",
-    "explanation": "Yudh Abhyas with the USA often takes place in Himalayan terrains, enhancing high-altitude operational training."
-  },
-  {
-    "id": 73,
-    "question": "SIMBEX is an acronym for?",
-    "options": ["A) Singapore–India Maritime Bilateral Exercise", "B) South India Marine Battle Exercise", "C) Security India Military Bilateral Exercise", "D) Singapore India Military Bilateral Exercise"],
-    "answer": "A) Singapore–India Maritime Bilateral Exercise",
-    "explanation": "SIMBEX strengthens naval cooperation, anti-piracy drills, and interoperability between India and Singapore."
-  },
-  {
-    "id": 74,
-    "question": "Exercise Garuda involves which branches of India and France?",
-    "options": ["A) Army", "B) Navy", "C) Air Force", "D) Coast Guard"],
-    "answer": "C) Air Force",
-    "explanation": "Exercise Garuda focuses on aerial combat readiness and joint air operations between Indian and French air forces."
-  },
-  {
-    "id": 75,
-    "question": "Exercise JIMEX is associated with which ocean region?",
-    "options": ["A) Indian Ocean", "B) Pacific Ocean", "C) Atlantic Ocean", "D) Arctic Ocean"],
-    "answer": "A) Indian Ocean",
-    "explanation": "India–Japan naval JIMEX strengthens maritime security and anti-piracy operations in the Indian Ocean."
-  },
-  {
-    "id": 76,
-    "question": "Dharma Guardian exercise is conducted between India and which country?",
-    "options": ["A) Japan", "B) USA", "C) France", "D) China"],
-    "answer": "A) Japan",
-    "explanation": "Dharma Guardian enhances joint army counter-terrorism training and disaster response capabilities."
-  },
-  {
-    "id": 77,
-    "question": "Vajra Prahar 2023 focused on?",
-    "options": ["A) Special forces operations", "B) Air defense", "C) Naval combat", "D) Cybersecurity"],
-    "answer": "A) Special forces operations",
-    "explanation": "Vajra Prahar enhances joint counter-terrorism and tactical drills between India and US special forces."
-  },
-  {
-    "id": 78,
-    "question": "Exercise Konkan is conducted by India with which navy?",
-    "options": ["A) Royal Navy (UK)", "B) French Navy", "C) US Navy", "D) Japanese Navy"],
-    "answer": "A) Royal Navy (UK)",
-    "explanation": "Konkan focuses on maritime security, naval maneuvers, and tactical cooperation with the UK."
-  },
-  {
-    "id": 79,
-    "question": "Exercise Hand-in-Hand is a military drill with which country?",
-    "options": ["A) China", "B) Japan", "C) France", "D) Russia"],
-    "answer": "A) China",
-    "explanation": "Hand-in-Hand enhances counter-insurgency, counter-terrorism training, and trust-building along the India–China border."
-  },
-  {
-    "id": 80,
-    "question": "Nomadic Elephant strengthens cooperation with which army?",
-    "options": ["A) Mongolian Army", "B) Nepali Army", "C) Bhutan Army", "D) Maldivian Army"],
-    "answer": "A) Mongolian Army",
-    "explanation": "Nomadic Elephant focuses on joint military drills, high-altitude training, and peacekeeping exercises with Mongolia."
-  },
-  {
-    "id": 81,
-    "question": "Surya Kiran is a bilateral exercise with which army?",
-    "options": ["A) Nepali Army", "B) Sri Lankan Army", "C) Bhutan Army", "D) Bangladeshi Army"],
-    "answer": "A) Nepali Army",
-    "explanation": "Surya Kiran enhances joint tactical training, disaster management, and regional security cooperation with Nepal."
-  },
-  {
-    "id": 82,
-    "question": "Garud Shakti primarily involves which type of forces?",
-    "options": ["A) Army", "B) Navy", "C) Air Force", "D) Coast Guard"],
-    "answer": "A) Army",
-    "explanation": "Garud Shakti focuses on counter-terrorism operations and army collaboration between India and Indonesia."
-  },
-  {
-    "id": 83,
-    "question": "Exercise CYCLONE enhances cooperation in which field?",
-    "options": ["A) Army operations", "B) Counter-terrorism", "C) Naval operations", "D) Air force combat"],
-    "answer": "B) Counter-terrorism",
-    "explanation": "CYCLONE with Egypt focuses on counter-terrorism, joint drills, and tactical training."
-  },
-  {
-    "id": 84,
-    "question": "Vajra Kavach is a special forces exercise with which country?",
-    "options": ["A) USA", "B) UK", "C) France", "D) Japan"],
-    "answer": "A) USA",
-    "explanation": "It improves coordination, tactical planning, and special forces interoperability between India and US forces."
-  },
-  {
-    "id": 85,
-    "question": "Mitra Shakti is conducted how often?",
-    "options": ["A) Annually", "B) Bi-annually", "C) Every 3 years", "D) Quarterly"],
-    "answer": "A) Annually",
-    "explanation": "Mitra Shakti strengthens India–Sri Lanka army relations through yearly joint military exercises."
-  },
-  {
-    "id": 86,
-    "question": "JIMEX focuses primarily on which operations?",
-    "options": ["A) Cybersecurity", "B) Anti-piracy and naval drills", "C) Space operations", "D) Special forces drills"],
-    "answer": "B) Anti-piracy and naval drills",
-    "explanation": "JIMEX promotes maritime security, search and rescue operations, and coordination in the Indo-Pacific."
-  },
-  {
-    "id": 87,
-    "question": "Exercise INDRA is a joint exercise with which country?",
-    "options": ["A) Russia", "B) USA", "C) France", "D) China"],
-    "answer": "A) Russia",
-    "explanation": "INDRA includes army and navy components, enhancing joint operational readiness between India and Russia."
-  },
-  {
-    "id": 88,
-    "question": "SLINEX promotes cooperation primarily in?",
-    "options": ["A) Counter-terrorism", "B) Maritime domain", "C) Air force tactics", "D) Cybersecurity"],
-    "answer": "B) Maritime domain",
-    "explanation": "SLINEX focuses on naval operations, maritime security, and regional cooperation with Sri Lanka."
-  },
-  {
-    "id": 89,
-    "question": "Dharma Guardian was first conducted in which year?",
-    "options": ["A) 2018", "B) 2016", "C) 2020", "D) 2015"],
-    "answer": "B) 2016",
-    "explanation": "Dharma Guardian strengthens India–Japan army coordination, focusing on counter-terrorism and disaster response."
-  },
-  {
-    "id": 90,
-    "question": "Exercise Konkan enhances cooperation in which sector?",
-    "options": ["A) Army", "B) Navy", "C) Air Force", "D) Cybersecurity"],
-    "answer": "B) Navy",
-    "explanation": "It focuses on joint naval maneuvers, maritime security drills, and tactical interoperability with the UK."
-  },
-  {
-    "id": 91,
-    "question": "Exercise Surya Kiran enhances cooperation primarily in?",
-    "options": ["A) Air Force operations", "B) Disaster management and army training", "C) Naval operations", "D) Cybersecurity"],
-    "answer": "B) Disaster management and army training",
-    "explanation": "Surya Kiran with Nepal focuses on joint army maneuvers, disaster relief drills, and operational coordination."
-  },
-  {
-    "id": 92,
-    "question": "Vajra Prahar aims to improve interoperability in which domain?",
-    "options": ["A) Special forces operations", "B) Air combat", "C) Naval maneuvers", "D) Cybersecurity"],
-    "answer": "A) Special forces operations",
-    "explanation": "It strengthens joint tactical training and counter-terror operations between Indian and US special forces."
-  },
-  {
-    "id": 93,
-    "question": "Exercise Yudh Abhyas enhances cooperation in which environment?",
-    "options": ["A) Coastal", "B) Mountainous", "C) Desert", "D) Urban"],
-    "answer": "B) Mountainous",
-    "explanation": "Conducted with the USA, it prepares troops for high-altitude warfare and joint army operations."
-  },
-  {
-    "id": 94,
-    "question": "JIMEX focuses on joint exercises primarily in?",
-    "options": ["A) Land operations", "B) Maritime operations", "C) Air defense", "D) Cybersecurity"],
-    "answer": "B) Maritime operations",
-    "explanation": "India–Japan JIMEX strengthens naval interoperability, anti-piracy drills, and maritime security."
-  },
-  {
-    "id": 95,
-    "question": "Exercise Hand-in-Hand is conducted to improve?",
-    "options": ["A) Counter-terrorism and military cooperation", "B) Naval strategies", "C) Air combat techniques", "D) Space operations"],
-    "answer": "A) Counter-terrorism and military cooperation",
-    "explanation": "It’s a joint India–China army exercise to enhance coordination and build trust along the border."
-  },
-  {
-    "id": 96,
-    "question": "Exercise Garuda primarily involves which countries?",
-    "options": ["A) India–France", "B) India–Indonesia", "C) India–USA", "D) India–UK"],
-    "answer": "B) India–Indonesia",
-    "explanation": "Garuda focuses on army-level counter-terrorism drills and strengthening bilateral defense ties."
-  },
-  {
-    "id": 97,
-    "question": "Konkan naval exercise is aimed at?",
-    "options": ["A) Space operations", "B) Naval operations and maritime security", "C) Cybersecurity drills", "D) Special forces training"],
-    "answer": "B) Naval operations and maritime security",
-    "explanation": "India–UK Konkan ensures joint tactical exercises and maritime interoperability."
-  },
-  {
-    "id": 98,
-    "question": "Exercise Vajra Kavach is associated with which special capability?",
-    "options": ["A) Army special forces", "B) Air combat", "C) Naval anti-piracy", "D) Cyber operations"],
-    "answer": "A) Army special forces",
-    "explanation": "It strengthens counter-terror operations and joint tactical training with US special forces."
-  },
-  {
-    "id": 99,
-    "question": "SLINEX focuses on cooperation in which region?",
-    "options": ["A) Indian Ocean", "B) Pacific Ocean", "C) Atlantic Ocean", "D) Mediterranean Sea"],
-    "answer": "A) Indian Ocean",
-    "explanation": "It enhances naval coordination, maritime security, and joint drills between India and Sri Lanka."
-  },
-  {
-    "id": 100,
-    "question": "Nomadic Elephant aims to strengthen India’s military cooperation with?",
-    "options": ["A) Mongolia", "B) Nepal", "C) Bhutan", "D) Bangladesh"],
-    "answer": "A) Mongolia",
-    "explanation": "It focuses on joint army training, peacekeeping exercises, and high-altitude operations."
-  },
-  {
-    "id": 101,
-    "question": "Sukanya Samriddhi Yojana was launched in which year?",
-    "options": ["A) 2014", "B) 2015", "C) 2018", "D) 2020"],
-    "answer": "B) 2015",
-    "explanation": "Sukanya Samriddhi Yojana was launched in January 2015 under the Beti Bachao Beti Padhao campaign to promote savings for the girl child. It offers one of the highest interest rates among small savings schemes."
-  },
-  {
-    "id": 102,
-    "question": "Which scheme provides LPG connections to women from BPL households?",
-    "options": ["A) Atal Pension Yojana", "B) Jan Dhan Yojana", "C) Pradhan Mantri Ujjwala Yojana", "D) PM-KISAN"],
-    "answer": "C) Pradhan Mantri Ujjwala Yojana",
-    "explanation": "Launched in 2016, this scheme aims to provide clean cooking fuel (LPG) to women from below poverty line families. It also helps reduce health hazards caused by firewood."
-  },
-  {
-    "id": 103,
-    "question": "Pradhan Mantri Jan Dhan Yojana was launched in which year?",
-    "options": ["A) 2012", "B) 2014", "C) 2016", "D) 2018"],
-    "answer": "B) 2014",
-    "explanation": "PMJDY was launched on 28 August 2014 to ensure financial inclusion by opening zero-balance bank accounts, providing debit cards, and linking insurance benefits."
-  },
-  {
-    "id": 104,
-    "question": "‘Beti Bachao, Beti Padhao’ scheme is implemented by which ministry?",
-    "options": ["A) Ministry of Health", "B) Ministry of Women & Child Development", "C) Ministry of Education", "D) Ministry of Finance"],
-    "answer": "B) Ministry of Women & Child Development",
-    "explanation": "This flagship scheme was launched in 2015 to address the declining child sex ratio and promote education for girls. It is jointly run by the Ministry of Women & Child Development, Health, and Education."
-  },
-  {
-    "id": 105,
-    "question": "Atal Pension Yojana provides pension benefits mainly to?",
-    "options": ["A) Government employees", "B) Farmers", "C) Unorganized sector workers", "D) Senior citizens above 65 years"],
-    "answer": "C) Unorganized sector workers",
-    "explanation": "Launched in 2015, APY guarantees a fixed pension to workers in the unorganized sector. The pension ranges from ₹1000 to ₹5000 per month after age 60."
-  },
-  {
-    "id": 106,
-    "question": "The slogan “Mera Khata Bhagya Vidhata” is related to which scheme?",
-    "options": ["A) Jan Dhan Yojana", "B) Digital India", "C) Startup India", "D) PM Ujjwala Yojana"],
-    "answer": "A) Jan Dhan Yojana",
-    "explanation": "The slogan emphasizes that bank accounts bring financial empowerment. Under PMJDY, crores of people opened bank accounts, many with zero balance."
-  },
-  {
-    "id": 107,
-    "question": "Which scheme is also called the “world’s largest health assurance scheme”?",
-    "options": ["A) Ayushman Bharat – PMJAY", "B) Rashtriya Swasthya Bima Yojana", "C) Arogya Setu", "D) Nirmaya Scheme"],
-    "answer": "A) Ayushman Bharat – PMJAY",
-    "explanation": "Launched in 2018, Ayushman Bharat provides ₹5 lakh annual health cover per family for poor and vulnerable groups, covering over 50 crore Indians."
-  },
-  {
-    "id": 108,
-    "question": "Which ministry implements the Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
-    "options": ["A) Ministry of Labour", "B) Ministry of Education", "C) Ministry of Skill Development & Entrepreneurship", "D) Ministry of Finance"],
-    "answer": "C) Ministry of Skill Development & Entrepreneurship",
-    "explanation": "PMKVY was launched in 2015 to provide industry-relevant skills to youth. It aims to make them more employable through skill certification."
-  },
-  {
-    "id": 109,
-    "question": "PM-Kisan scheme provides direct income support to how many farmers annually?",
-    "options": ["A) ₹2000", "B) ₹4000", "C) ₹6000", "D) ₹10,000"],
-    "answer": "C) ₹6000",
-    "explanation": "PM-KISAN was launched in 2019. It provides ₹6000 per year in 3 equal installments directly into the bank accounts of eligible farmers."
-  },
-  {
-    "id": 110,
-    "question": "Which scheme aims to build affordable housing for the urban poor by 2022?",
-    "options": ["A) Smart Cities Mission", "B) Pradhan Mantri Awas Yojana (Urban)", "C) Swachh Bharat Mission", "D) AMRUT"],
-    "answer": "B) Pradhan Mantri Awas Yojana (Urban)",
-    "explanation": "Launched in 2015, PMAY-U targets “Housing for All by 2022.” It provides interest subsidies and support for urban housing construction."
-  },
-  {
-    "id": 111,
-    "question": "Which scheme was launched to provide cooking gas connections to poor families?",
-    "options": ["A) PMJDY", "B) PMUY", "C) PMAY", "D) PMKISAN"],
-    "answer": "B) PMUY",
-    "explanation": "Pradhan Mantri Ujjwala Yojana (2016) provides LPG connections to poor women. It aims to protect health and reduce indoor air pollution."
-  },
-  {
-    "id": 112,
-    "question": "National Nutrition Mission is popularly known as?",
-    "options": ["A) Poshan Abhiyaan", "B) Swachh Bharat", "C) Ayushman Bharat", "D) Mission Indradhanush"],
-    "answer": "A) Poshan Abhiyaan",
-    "explanation": "Launched in 2018, Poshan Abhiyaan addresses malnutrition in children, adolescent girls, and women through multi-ministerial efforts."
-  },
-  {
-    "id": 113,
-    "question": "Which scheme launched in 2014 aims to build 100 modern cities?",
-    "options": ["A) Smart Cities Mission", "B) AMRUT", "C) Rurban Mission", "D) Digital India"],
-    "answer": "A) Smart Cities Mission",
-    "explanation": "Smart Cities Mission provides core infrastructure, sustainable environment, and smart solutions in 100 cities for urban development."
-  },
-  {
-    "id": 114,
-    "question": "Under Pradhan Mantri Fasal Bima Yojana, farmers are insured against?",
-    "options": ["A) Accidents", "B) Crop failure", "C) Education expenses", "D) Employment loss"],
-    "answer": "B) Crop failure",
-    "explanation": "Launched in 2016, PMFBY provides affordable crop insurance to farmers against natural calamities and crop failure."
-  },
-  {
-    "id": 115,
-    "question": "Stand-Up India scheme mainly supports?",
-    "options": ["A) Large industries", "B) SC/ST and women entrepreneurs", "C) Government officers", "D) Only IT companies"],
-    "answer": "B) SC/ST and women entrepreneurs",
-    "explanation": "Stand-Up India provides loans from ₹10 lakh to ₹1 crore to SC/ST and women entrepreneurs for setting up greenfield enterprises."
-  },
-  {
-    "id": 116,
-    "question": "Which scheme provides LPG subsidy directly into the consumer’s bank account?",
-    "options": ["A) PAHAL (DBTL)", "B) PMUY", "C) Jan Suraksha", "D) PMJDY"],
-    "answer": "A) PAHAL (DBTL)",
-    "explanation": "PAHAL (Direct Benefit Transfer for LPG Subsidy) ensures subsidies reach beneficiaries directly, preventing leakage and corruption."
-  },
-  {
-    "id": 117,
-    "question": "PM-SYM refers to which pension scheme?",
-    "options": ["A) Pradhan Mantri Shram Yogi Maan-dhan", "B) Senior Yogi Mission", "C) Skill Youth Mission", "D) Social Youth Mandal"],
-    "answer": "A) Pradhan Mantri Shram Yogi Maan-dhan",
-    "explanation": "PM-SYM provides a monthly pension of ₹3000 after age 60 to unorganized workers earning up to ₹15,000 per month."
-  },
-  {
-    "id": 118,
-    "question": "Which scheme provides scholarships for higher education to meritorious students from minority communities?",
-    "options": ["A) Udaan", "B) Nai Udaan", "C) Nai Manzil", "D) Maulana Azad National Fellowship"],
-    "answer": "D) Maulana Azad National Fellowship",
-    "explanation": "MANF supports students from minority communities pursuing MPhil/PhD by providing scholarships."
-  },
-  {
-    "id": 119,
-    "question": "The scheme “Mission Indradhanush” is related to?",
-    "options": ["A) Road construction", "B) Immunization", "C) Skill development", "D) Housing"],
-    "answer": "B) Immunization",
-    "explanation": "Mission Indradhanush (2014) ensures full immunization coverage for children and pregnant women against seven preventable diseases."
-  },
-  {
-    "id": 120,
-    "question": "Which scheme aims to provide universal health insurance coverage to poor families?",
-    "options": ["A) Rashtriya Swasthya Bima Yojana", "B) Ayushman Bharat", "C) PMJDY", "D) NITI Aayog"],
-    "answer": "A) Rashtriya Swasthya Bima Yojana",
-    "explanation": "RSBY provides health insurance coverage of up to ₹30,000 per family below the poverty line."
-  },
-  {
-    "id": 121,
-    "question": "Which scheme is aimed at providing piped drinking water to every rural household by 2024?",
-    "options": ["A) Jal Jeevan Mission", "B) AMRUT", "C) Swachh Bharat Mission", "D) Digital India"],
-    "answer": "A) Jal Jeevan Mission",
-    "explanation": "Launched in 2019, Jal Jeevan Mission ensures “Har Ghar Jal” by providing tap water connections to all rural households."
-  },
-  {
-    "id": 122,
-    "question": "Which scheme is known as the world’s largest cleanliness drive?",
-    "options": ["A) Swachh Bharat Mission", "B) Smart Cities Mission", "C) PM Awas Yojana", "D) Jal Jeevan Mission"],
-    "answer": "A) Swachh Bharat Mission",
-    "explanation": "Launched on 2nd October 2014, SBM aimed to make India open defecation free and promote sanitation."
-  },
-  {
-    "id": 123,
-    "question": "Which scheme provides micro-loans up to ₹10 lakh to small businesses without collateral?",
-    "options": ["A) MUDRA Yojana", "B) PMJDY", "C) Skill India Mission", "D) PMKISAN"],
-    "answer": "A) MUDRA Yojana",
-    "explanation": "Pradhan Mantri MUDRA Yojana (2015) promotes micro-entrepreneurs through Shishu, Kishor, and Tarun loan categories."
-  },
-  {
-    "id": 124,
-    "question": "Which scheme provides accidental insurance cover of ₹2 lakh for a premium of ₹12/year?",
-    "options": ["A) PMJDY", "B) PM Suraksha Bima Yojana", "C) PM Jeevan Jyoti Bima Yojana", "D) Ayushman Bharat"],
-    "answer": "B) PM Suraksha Bima Yojana",
-    "explanation": "PMSBY (2015) offers low-cost accident insurance for citizens aged 18–70 years."
-  },
-  {
-    "id": 125,
-    "question": "The PM Jeevan Jyoti Bima Yojana offers life insurance of?",
-    "options": ["A) ₹1 lakh", "B) ₹2 lakh", "C) ₹3 lakh", "D) ₹5 lakh"],
-    "answer": "B) ₹2 lakh",
-    "explanation": "PMJJBY (2015) provides life insurance cover of ₹2 lakh at a premium of ₹330 per annum for ages 18–50."
-  },
-  {
-    "id": 126,
-    "question": "Which scheme was launched to double farmers’ income by providing minimum support?",
-    "options": ["A) PM-Kisan", "B) PM-KMY", "C) PM AASHA", "D) PMFBY"],
-    "answer": "C) PM AASHA",
-    "explanation": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (2018) ensures MSP for farmers through procurement and price support schemes."
-  },
-  {
-    "id": 127,
-    "question": "Which scheme promotes 100% village electrification?",
-    "options": ["A) Deen Dayal Upadhyaya Gram Jyoti Yojana", "B) Saubhagya Yojana", "C) AMRUT", "D) Rurban Mission"],
-    "answer": "A) Deen Dayal Upadhyaya Gram Jyoti Yojana",
-    "explanation": "DDU-GJY focuses on feeder separation and rural electrification to strengthen rural power supply."
-  },
-  {
-    "id": 128,
-    "question": "The Saubhagya scheme is related to?",
-    "options": ["A) Education", "B) Rural Electrification", "C) Housing", "D) Drinking water"],
-    "answer": "B) Rural Electrification",
-    "explanation": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana (2017) aims to provide electricity connections to all households."
-  },
-  {
-    "id": 129,
-    "question": "Which scheme provides income support to small and marginal farmers?",
-    "options": ["A) PM Kisan Samman Nidhi", "B) PMFBY", "C) Atal Pension Yojana", "D) MNREGA"],
-    "answer": "A) PM Kisan Samman Nidhi",
-    "explanation": "PM-Kisan provides ₹6000 per year in three installments directly to farmers’ bank accounts."
-  },
-  {
-    "id": 130,
-    "question": "Which scheme guarantees 100 days of wage employment in rural areas?",
-    "options": ["A) Rurban Mission", "B) MNREGA", "C) PMJDY", "D) PMUY"],
-    "answer": "B) MNREGA",
-    "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act (2005) provides guaranteed wage employment to rural households."
-  },
-  {
-    "id": 131,
-    "question": "Which scheme was launched to develop rural growth clusters?",
-    "options": ["A) Shyama Prasad Mukherji Rurban Mission", "B) PM Awas Yojana", "C) Digital India", "D) BharatNet"],
-    "answer": "A) Rurban Mission",
-    "explanation": "Launched in 2016, it develops clusters of villages with urban-like facilities to reduce rural-urban migration."
-  },
-  {
-    "id": 132,
-    "question": "Which scheme promotes entrepreneurship and skill training for minorities?",
-    "options": ["A) Nai Roshni", "B) Nai Manzil", "C) Udaan", "D) Hunar Haat"],
-    "answer": "B) Nai Manzil",
-    "explanation": "Nai Manzil provides integrated education and skill training for youth from minority communities."
-  },
-  {
-    "id": 133,
-    "question": "Which scheme provides an insurance cover of ₹5 lakh per family per year?",
-    "options": ["A) Ayushman Bharat", "B) PMJJBY", "C) PMSBY", "D) RSBY"],
-    "answer": "A) Ayushman Bharat",
-    "explanation": "PM-JAY (2018) covers secondary and tertiary hospitalization expenses for poor and vulnerable families."
-  },
-  {
-    "id": 134,
-    "question": "Which scheme aims to revive traditional industries?",
-    "options": ["A) Stand-Up India", "B) Start-Up India", "C) SFURTI", "D) Digital India"],
-    "answer": "C) SFURTI",
-    "explanation": "Scheme of Fund for Regeneration of Traditional Industries (SFURTI) promotes Khadi, coir, and village industries."
-  },
-  {
-    "id": 135,
-    "question": "Which scheme provides internet connectivity in rural areas via optical fiber?",
-    "options": ["A) BharatNet", "B) Digital India", "C) AMRUT", "D) Rurban Mission"],
-    "answer": "A) BharatNet",
-    "explanation": "BharatNet is the world’s largest rural broadband project connecting 2.5 lakh Gram Panchayats."
-  },
-  {
-    "id": 136,
-    "question": "Which scheme provides financial support to pregnant women for nutritious food and rest?",
-    "options": ["A) POSHAN Abhiyaan", "B) PM Matru Vandana Yojana", "C) Janani Suraksha Yojana", "D) Ujjwala Yojana"],
-    "answer": "B) PM Matru Vandana Yojana",
-    "explanation": "PMMVY provides ₹5000 to pregnant and lactating women for wage loss compensation and proper nutrition."
-  },
-  {
-    "id": 137,
-    "question": "Which scheme focuses on skilling youth for the aviation sector?",
-    "options": ["A) Udaan", "B) Hunar se Rozgar Tak", "C) Hunar Haat", "D) Kaushal Bharat"],
-    "answer": "A) Udaan",
-    "explanation": "Udaan provides skill training and employment opportunities in aviation and other specialized sectors."
-  },
-  {
-    "id": 138,
-    "question": "Which scheme aims to reduce urban poverty through skill training and self-employment?",
-    "options": ["A) PMKVY", "B) Deen Dayal Antyodaya Yojana – NULM", "C) AMRUT", "D) Swachh Bharat Mission"],
-    "answer": "B) Deen Dayal Antyodaya Yojana – NULM",
-    "explanation": "National Urban Livelihood Mission focuses on reducing poverty and vulnerability of urban poor households."
-  },
-  {
-    "id": 139,
-    "question": "Which scheme promotes entrepreneurship in biotechnology?",
-    "options": ["A) Biotech-KISAN", "B) Startup India", "C) PM AASHA", "D) MUDRA"],
-    "answer": "A) Biotech-KISAN",
-    "explanation": "Biotech-KISAN empowers farmers with innovative biotech solutions to increase productivity."
-  },
-  {
-    "id": 140,
-    "question": "Which scheme promotes 100% household electrification?",
-    "options": ["A) Saubhagya Yojana", "B) PMKVY", "C) MNREGA", "D) RSBY"],
-    "answer": "A) Saubhagya Yojana",
-    "explanation": "Launched in 2017, Saubhagya ensured last-mile connectivity to all un-electrified households."
-  },
-  {
-    "id": 141,
-    "question": "Which scheme is called the “world’s largest financial inclusion initiative”?",
-    "options": ["A) PMJDY", "B) PMUY", "C) PMKVY", "D) RSBY"],
-    "answer": "A) PMJDY",
-    "explanation": "Over 47 crore bank accounts were opened under Jan Dhan Yojana since 2014."
-  },
-  {
-    "id": 142,
-    "question": "Which scheme aims to improve maternal and child health by institutional deliveries?",
-    "options": ["A) Janani Suraksha Yojana", "B) PMMVY", "C) POSHAN", "D) Ayushman Bharat"],
-    "answer": "A) Janani Suraksha Yojana",
-    "explanation": "JSY provides cash incentives to pregnant women for institutional deliveries to reduce maternal mortality."
-  },
-  {
-    "id": 143,
-    "question": "Which scheme provides collateral-free education loans for minority students?",
-    "options": ["A) Vidya Lakshmi", "B) Udaan", "C) Nai Udaan", "D) MANF"],
-    "answer": "A) Vidya Lakshmi",
-    "explanation": "Vidya Lakshmi Portal connects students with banks to avail loans and scholarships for higher studies."
-  },
-  {
-    "id": 144,
-    "question": "Which scheme is related to promoting digital payments ecosystem in India?",
-    "options": ["A) Digital India", "B) PMGDISHA", "C) BharatNet", "D) BHIM"],
-    "answer": "D) BHIM",
-    "explanation": "Bharat Interface for Money (BHIM) promotes digital transactions using UPI for financial inclusion."
-  },
-  {
-    "id": 145,
-    "question": "Which scheme was launched to provide pension to farmers above 60 years?",
-    "options": ["A) PM-KMY", "B) PM-KISAN", "C) Atal Pension Yojana", "D) PM-SYM"],
-    "answer": "A) PM-KMY",
-    "explanation": "Pradhan Mantri Kisan Maan-dhan Yojana gives farmers a pension of ₹3000 per month after 60 years."
-  },
-  {
-    "id": 146,
-    "question": "Which scheme aims to transform India into a global manufacturing hub?",
-    "options": ["A) Make in India", "B) Digital India", "C) Startup India", "D) AMRUT"],
-    "answer": "A) Make in India",
-    "explanation": "Launched in 2014, it boosts domestic manufacturing and attracts FDI in 25 sectors."
-  },
-  {
-    "id": 147,
-    "question": "Which scheme promotes entrepreneurship and innovation among youth?",
-    "options": ["A) Startup India", "B) Stand-Up India", "C) Skill India", "D) Digital India"],
-    "answer": "A) Startup India",
-    "explanation": "Startup India (2016) supports startups with tax exemptions, incubation, and funding support."
-  },
-  {
-    "id": 148,
-    "question": "Which scheme provides digital literacy to rural households?",
-    "options": ["A) Digital India", "B) PMGDISHA", "C) BharatNet", "D) Rurban Mission"],
-    "answer": "B) PMGDISHA",
-    "explanation": "Pradhan Mantri Gramin Digital Saksharta Abhiyan aims to make 6 crore rural households digitally literate."
-  },
-  {
-    "id": 149,
-    "question": "Which scheme is related to providing free LPG connections to poor households?",
-    "options": ["A) PMUY", "B) Saubhagya", "C) PMJDY", "D) PMKVY"],
-    "answer": "A) PMUY",
-    "explanation": "PM Ujjwala Yojana ensures women’s health safety and clean fuel adoption by giving free LPG connections."
-  },
-  {
-    "id": 150,
-    "question": "Which scheme provides employment opportunities through afforestation and environmental activities?",
-    "options": ["A) Green India Mission", "B) MNREGA", "C) PMKVY", "D) AMRUT"],
-    "answer": "A) Green India Mission",
-    "explanation": "GIM enhances ecosystem services, carbon sequestration, and livelihoods through forest-based employment."
+    "topicName": "Organisations and Headquarters",
+    "startId": 1,
+    "endId": 50,
+    "questions": [
+      {
+        "id": 1,
+        "question": "The headquarters of the United Nations is located in?",
+        "options": ["A) Geneva", "B) New York", "C) Paris", "D) London"],
+        "answer": "B) New York",
+        "explanation": "The UN headquarters is in New York City and serves as the main venue for international diplomacy and global policymaking."
+      },
+      {
+        "id": 2,
+        "question": "The World Bank headquarters is located in?",
+        "options": ["A) Paris", "B) London", "C) Washington, D.C.", "D) Geneva"],
+        "answer": "C) Washington, D.C.",
+        "explanation": "The World Bank provides financial and technical assistance to developing countries and is headquartered in Washington, D.C.."
+      },
+      {
+        "id": 3,
+        "question": "The International Monetary Fund (IMF) is headquartered in?",
+        "options": ["A) London", "B) Washington, D.C.", "C) New York", "D) Geneva"],
+        "answer": "B) Washington, D.C.",
+        "explanation": "IMF provides financial support and policy advice to member countries and is based in Washington, D.C."
+      },
+      {
+        "id": 4,
+        "question": "The headquarters of WHO (World Health Organization) is located in?",
+        "options": ["A) Paris", "B) New York", "C) Geneva", "D) London"],
+        "answer": "C) Geneva",
+        "explanation": "WHO, headquartered in Geneva, coordinates international health policies and responds to global health emergencies."
+      },
+      {
+        "id": 5,
+        "question": "The headquarters of UNESCO is located in?",
+        "options": ["A) Geneva", "B) Paris", "C) Vienna", "D) Rome"],
+        "answer": "B) Paris",
+        "explanation": "UNESCO works to promote education, science, and cultural collaboration worldwide from its Paris headquarters."
+      },
+      {
+        "id": 6,
+        "question": "The headquarters of NATO (North Atlantic Treaty Organization) is located in?",
+        "options": ["A) Brussels", "B) London", "C) Washington, D.C.", "D) Berlin"],
+        "answer": "A) Brussels",
+        "explanation": "NATO, a military alliance of North American and European countries, has its central command in Brussels, Belgium."
+      },
+      {
+        "id": 7,
+        "question": "The International Court of Justice (ICJ) is headquartered in?",
+        "options": ["A) The Hague", "B) Geneva", "C) New York", "D) London"],
+        "answer": "A) The Hague",
+        "explanation": "ICJ, the principal judicial organ of the UN, settles disputes between countries and is based in The Hague, Netherlands."
+      },
+      {
+        "id": 8,
+        "question": "The headquarters of World Trade Organization (WTO) is in?",
+        "options": ["A) Paris", "B) Geneva", "C) London", "D) New York"],
+        "answer": "B) Geneva",
+        "explanation": "WTO oversees global trade rules and negotiations and operates from Geneva, Switzerland."
+      },
+      {
+        "id": 9,
+        "question": "The headquarters of International Labour Organization (ILO) is located in?",
+        "options": ["A) Geneva", "B) Paris", "C) New York", "D) Brussels"],
+        "answer": "A) Geneva",
+        "explanation": "ILO promotes workers’ rights, employment, and social justice and is headquartered in Geneva."
+      },
+      {
+        "id": 10,
+        "question": "The headquarters of UNICEF is located in?",
+        "options": ["A) New York", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) New York",
+        "explanation": "UNICEF, a UN agency for children’s welfare and rights, operates from New York City."
+      },
+      {
+        "id": 11,
+        "question": "The headquarters of FAO (Food and Agriculture Organization) is located in?",
+        "options": ["A) Paris", "B) Rome", "C) Geneva", "D) London"],
+        "answer": "B) Rome",
+        "explanation": "FAO works on eradicating hunger and improving food security worldwide, headquartered in Rome, Italy."
+      },
+      {
+        "id": 12,
+        "question": "The headquarters of International Atomic Energy Agency (IAEA) is in?",
+        "options": ["A) Vienna", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) Vienna",
+        "explanation": "IAEA promotes safe and peaceful use of nuclear energy, and its headquarters is in Vienna, Austria."
+      },
+      {
+        "id": 13,
+        "question": "The headquarters of Asian Development Bank (ADB) is located in?",
+        "options": ["A) Manila", "B) Tokyo", "C) Bangkok", "D) Singapore"],
+        "answer": "A) Manila",
+        "explanation": "ADB provides financial and technical assistance to Asian countries, headquartered in Manila, Philippines."
+      },
+      {
+        "id": 14,
+        "question": "The headquarters of SAARC (South Asian Association for Regional Cooperation) is in?",
+        "options": ["A) Dhaka", "B) Kathmandu", "C) Colombo", "D) New Delhi"],
+        "answer": "B) Kathmandu",
+        "explanation": "SAARC promotes regional cooperation in South Asia, with its secretariat in Kathmandu, Nepal."
+      },
+      {
+        "id": 15,
+        "question": "The headquarters of BRICS is located in?",
+        "options": ["A) Moscow", "B) Beijing", "C) New Delhi", "D) No permanent headquarters"],
+        "answer": "D) No permanent headquarters",
+        "explanation": "BRICS, a group of emerging economies, rotates its chairmanship annually and has no permanent secretariat."
+      },
+      {
+        "id": 16,
+        "question": "The headquarters of ASEAN (Association of Southeast Asian Nations) is in?",
+        "options": ["A) Singapore", "B) Bangkok", "C) Jakarta", "D) Kuala Lumpur"],
+        "answer": "C) Jakarta",
+        "explanation": "ASEAN promotes economic, political, and security cooperation among Southeast Asian countries, headquartered in Jakarta, Indonesia."
+      },
+      {
+        "id": 17,
+        "question": "The headquarters of International Telecommunication Union (ITU) is located in?",
+        "options": ["A) New York", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "B) Geneva",
+        "explanation": "ITU develops standards and policies for global telecommunication and is based in Geneva, Switzerland."
+      },
+      {
+        "id": 18,
+        "question": "The headquarters of World Meteorological Organization (WMO) is in?",
+        "options": ["A) Paris", "B) Geneva", "C) London", "D) Rome"],
+        "answer": "B) Geneva",
+        "explanation": "WMO coordinates weather, climate, and water-related data globally from Geneva."
+      },
+      {
+        "id": 19,
+        "question": "The headquarters of International Civil Aviation Organization (ICAO) is located in?",
+        "options": ["A) Montreal", "B) New York", "C) Geneva", "D) Paris"],
+        "answer": "A) Montreal",
+        "explanation": "ICAO sets standards and regulations for international aviation and operates from Montreal, Canada."
+      },
+      {
+        "id": 20,
+        "question": "The headquarters of International Fund for Agricultural Development (IFAD) is in?",
+        "options": ["A) Geneva", "B) Rome", "C) Paris", "D) New York"],
+        "answer": "B) Rome",
+        "explanation": "IFAD provides financial support to rural poor farmers and is headquartered in Rome, Italy."
+      },
+      {
+        "id": 21,
+        "question": "The headquarters of OPEC (Organization of Petroleum Exporting Countries) is in?",
+        "options": ["A) Riyadh", "B) Vienna", "C) Doha", "D) Baghdad"],
+        "answer": "B) Vienna",
+        "explanation": "OPEC coordinates petroleum policies among member countries, and its secretariat is in Vienna, Austria."
+      },
+      {
+        "id": 22,
+        "question": "The headquarters of IMF (International Monetary Fund) is located in?",
+        "options": ["A) Paris", "B) London", "C) Washington, D.C.", "D) Geneva"],
+        "answer": "C) Washington, D.C.",
+        "explanation": "IMF provides financial stability, loans, and policy advice to member nations from Washington, D.C."
+      },
+      {
+        "id": 23,
+        "question": "The headquarters of World Health Organization (WHO) is in?",
+        "options": ["A) Paris", "B) Geneva", "C) New York", "D) Rome"],
+        "answer": "B) Geneva",
+        "explanation": "WHO coordinates global public health policies and responses from its Geneva headquarters."
+      },
+      {
+        "id": 24,
+        "question": "The headquarters of World Intellectual Property Organization (WIPO) is located in?",
+        "options": ["A) Paris", "B) London", "C) Geneva", "D) Vienna"],
+        "answer": "C) Geneva",
+        "explanation": "WIPO protects intellectual property rights globally and is headquartered in Geneva, Switzerland."
+      },
+      {
+        "id": 25,
+        "question": "The headquarters of International Court of Justice (ICJ) is in?",
+        "options": ["A) The Hague", "B) Geneva", "C) Paris", "D) New York"],
+        "answer": "A) The Hague",
+        "explanation": "ICJ resolves legal disputes between countries and is the UN’s principal judicial organ based in The Hague."
+      },
+      {
+        "id": 26,
+        "question": "The headquarters of UNICEF is in?",
+        "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
+        "answer": "C) New York",
+        "explanation": "UNICEF supports children’s health, education, and welfare worldwide from New York."
+      },
+      {
+        "id": 27,
+        "question": "The headquarters of World Food Programme (WFP) is in?",
+        "options": ["A) Rome", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "B) Rome",
+        "explanation": "WFP addresses hunger and food security globally, and its headquarters is in Rome, Italy."
+      },
+      {
+        "id": 28,
+        "question": "The headquarters of International Labour Organization (ILO) is located in?",
+        "options": ["A) Geneva", "B) New York", "C) Paris", "D) London"],
+        "answer": "A) Geneva",
+        "explanation": "ILO promotes workers’ rights, employment, and social justice and is headquartered in Geneva, Switzerland."
+      },
+      {
+        "id": 29,
+        "question": "The headquarters of Asian Infrastructure Investment Bank (AIIB) is in?",
+        "options": ["A) Singapore", "B) Beijing", "C) Tokyo", "D) New Delhi"],
+        "answer": "B) Beijing",
+        "explanation": "AIIB finances infrastructure projects across Asia and is headquartered in Beijing, China."
+      },
+      {
+        "id": 30,
+        "question": "The headquarters of Organisation of Islamic Cooperation (OIC) is in?",
+        "options": ["A) Jeddah", "B) Riyadh", "C) Cairo", "D) Istanbul"],
+        "answer": "A) Jeddah",
+        "explanation": "OIC promotes solidarity among Muslim countries and is headquartered in Jeddah, Saudi Arabia."
+      },
+      {
+        "id": 31,
+        "question": "The headquarters of International Red Cross and Red Crescent Movement is in?",
+        "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
+        "answer": "A) Geneva",
+        "explanation": "The Red Cross/Red Crescent coordinates humanitarian aid and disaster relief from Geneva, Switzerland."
+      },
+      {
+        "id": 32,
+        "question": "The headquarters of BRICS has a permanent secretariat in?",
+        "options": ["A) Moscow", "B) Beijing", "C) New Delhi", "D) No permanent secretariat"],
+        "answer": "D) No permanent secretariat",
+        "explanation": "BRICS rotates its chairmanship annually and does not maintain a fixed headquarters."
+      },
+      {
+        "id": 33,
+        "question": "The headquarters of International Criminal Police Organization (INTERPOL) is in?",
+        "options": ["A) Lyon", "B) Paris", "C) Brussels", "D) Berlin"],
+        "answer": "A) Lyon",
+        "explanation": "INTERPOL facilitates international police cooperation and is headquartered in Lyon, France."
+      },
+      {
+        "id": 34,
+        "question": "The headquarters of Food and Agriculture Organization (FAO) is located in?",
+        "options": ["A) Rome", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) Rome",
+        "explanation": "FAO works to eradicate hunger and improve agriculture worldwide from Rome, Italy."
+      },
+      {
+        "id": 35,
+        "question": "The headquarters of International Telecommunication Union (ITU) is in?",
+        "options": ["A) Geneva", "B) Paris", "C) London", "D) Vienna"],
+        "answer": "A) Geneva",
+        "explanation": "ITU develops global telecommunication standards and policies, headquartered in Geneva, Switzerland."
+      },
+      {
+        "id": 36,
+        "question": "The headquarters of World Trade Organization (WTO) is located in?",
+        "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
+        "answer": "A) Geneva",
+        "explanation": "WTO oversees global trade rules, negotiations, and dispute resolution from Geneva."
+      },
+      {
+        "id": 37,
+        "question": "The headquarters of International Atomic Energy Agency (IAEA) is in?",
+        "options": ["A) Vienna", "B) Geneva", "C) Paris", "D) Rome"],
+        "answer": "A) Vienna",
+        "explanation": "IAEA promotes safe and peaceful nuclear energy use from its Vienna headquarters."
+      },
+      {
+        "id": 38,
+        "question": "The headquarters of African Union (AU) is located in?",
+        "options": ["A) Addis Ababa", "B) Nairobi", "C) Cairo", "D) Johannesburg"],
+        "answer": "A) Addis Ababa",
+        "explanation": "AU promotes political, economic, and social integration among African nations from Ethiopia’s capital."
+      },
+      {
+        "id": 39,
+        "question": "The headquarters of Commonwealth of Nations is in?",
+        "options": ["A) London", "B) New York", "C) Geneva", "D) Paris"],
+        "answer": "A) London",
+        "explanation": "The Commonwealth Secretariat in London coordinates cooperation among member countries."
+      },
+      {
+        "id": 40,
+        "question": "The headquarters of Organisation for Economic Co-operation and Development (OECD) is in?",
+        "options": ["A) Paris", "B) Geneva", "C) London", "D) Brussels"],
+        "answer": "A) Paris",
+        "explanation": "OECD promotes economic growth, trade, and development and is headquartered in Paris, France."
+      },
+      {
+        "id": 41,
+        "question": "The headquarters of International Fund for Agricultural Development (IFAD) is located in?",
+        "options": ["A) Rome", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) Rome",
+        "explanation": "IFAD supports rural development and agriculture financing from its Rome headquarters."
+      },
+      {
+        "id": 42,
+        "question": "The headquarters of Asian Development Bank (ADB) is in?",
+        "options": ["A) Manila", "B) Tokyo", "C) Bangkok", "D) Singapore"],
+        "answer": "A) Manila",
+        "explanation": "ADB provides financial assistance and technical support to Asian countries from Manila, Philippines."
+      },
+      {
+        "id": 43,
+        "question": "The headquarters of Organisation of Petroleum Exporting Countries (OPEC) is in?",
+        "options": ["A) Vienna", "B) Riyadh", "C) Baghdad", "D) Doha"],
+        "answer": "A) Vienna",
+        "explanation": "OPEC coordinates petroleum policies among member countries from Vienna, Austria."
+      },
+      {
+        "id": 44,
+        "question": "The headquarters of SAARC (South Asian Association for Regional Cooperation) is in?",
+        "options": ["A) Kathmandu", "B) Dhaka", "C) New Delhi", "D) Colombo"],
+        "answer": "A) Kathmandu",
+        "explanation": "SAARC promotes regional cooperation in South Asia from its secretariat in Kathmandu, Nepal."
+      },
+      {
+        "id": 45,
+        "question": "The headquarters of ASEAN (Association of Southeast Asian Nations) is in?",
+        "options": ["A) Jakarta", "B) Singapore", "C) Bangkok", "D) Kuala Lumpur"],
+        "answer": "A) Jakarta",
+        "explanation": "ASEAN coordinates economic, political, and security cooperation among Southeast Asian nations from Jakarta."
+      },
+      {
+        "id": 46,
+        "question": "The headquarters of International Civil Aviation Organization (ICAO) is located in?",
+        "options": ["A) Montreal", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) Montreal",
+        "explanation": "ICAO sets global aviation standards and ensures safe and orderly air transport from Montreal, Canada."
+      },
+      {
+        "id": 47,
+        "question": "The headquarters of International Monetary Fund (IMF) is in?",
+        "options": ["A) Washington, D.C.", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) Washington, D.C.",
+        "explanation": "IMF provides loans, policy guidance, and economic support from its Washington, D.C. headquarters."
+      },
+      {
+        "id": 48,
+        "question": "The headquarters of World Bank is located in?",
+        "options": ["A) Washington, D.C.", "B) Geneva", "C) Paris", "D) London"],
+        "answer": "A) Washington, D.C.",
+        "explanation": "World Bank finances development projects globally and is headquartered in Washington, D.C."
+      },
+      {
+        "id": 49,
+        "question": "The headquarters of International Red Cross is in?",
+        "options": ["A) Geneva", "B) Paris", "C) New York", "D) London"],
+        "answer": "A) Geneva",
+        "explanation": "The Red Cross coordinates humanitarian aid and emergency relief operations from Geneva."
+      },
+      {
+        "id": 50,
+        "question": "The headquarters of Organisation of Islamic Cooperation (OIC) is in?",
+        "options": ["A) Jeddah", "B) Riyadh", "C) Cairo", "D) Istanbul"],
+        "answer": "A) Jeddah",
+        "explanation": "OIC promotes solidarity among Muslim countries and is headquartered in Jeddah, Saudi Arabia."
+      }
+    ]
+  },
+  {
+    "topicName": "Bilateral Exercises between India and Other Countries",
+    "startId": 51,
+    "endId": 100,
+    "questions": [
+      {
+        "id": 51,
+        "question": "Exercise SHAKTI is conducted between India and which country?",
+        "options": ["A) France", "B) USA", "C) Russia", "D) Japan"],
+        "answer": "A) France",
+        "explanation": "Exercise SHAKTI is an India–France Army exercise focusing on counter-terrorism and joint operational tactics."
+      },
+      {
+        "id": 52,
+        "question": "SIMBEX is a bilateral naval exercise between India and which country?",
+        "options": ["A) Sri Lanka", "B) Singapore", "C) Indonesia", "D) Bangladesh"],
+        "answer": "B) Singapore",
+        "explanation": "SIMBEX (Singapore–India Maritime Bilateral Exercise) strengthens naval cooperation and interoperability in maritime security."
+      },
+      {
+        "id": 53,
+        "question": "Mitra Shakti is an army exercise between India and which country?",
+        "options": ["A) Nepal", "B) Sri Lanka", "C) Bhutan", "D) Maldives"],
+        "answer": "B) Sri Lanka",
+        "explanation": "Mitra Shakti focuses on counter-insurgency operations and defense cooperation between Indian and Sri Lankan armies."
+      },
+      {
+        "id": 54,
+        "question": "Yudh Abhyas is a joint army exercise between India and which country?",
+        "options": ["A) USA", "B) China", "C) Russia", "D) France"],
+        "answer": "A) USA",
+        "explanation": "Yudh Abhyas enhances joint military training and tactical exercises with US and Indian armies."
+      },
+      {
+        "id": 55,
+        "question": "Exercise Garuda is conducted between India and which country's Air Force?",
+        "options": ["A) France", "B) Russia", "C) USA", "D) UK"],
+        "answer": "A) France",
+        "explanation": "Garuda is an India–France Air Force exercise aimed at strengthening aerial cooperation and operational readiness."
+      },
+      {
+        "id": 56,
+        "question": "JIMEX is a naval exercise between India and which country?",
+        "options": ["A) Japan", "B) USA", "C) Australia", "D) UK"],
+        "answer": "A) Japan",
+        "explanation": "JIMEX (Japan–India Maritime Exercise) focuses on maritime security, anti-piracy, and joint naval maneuvers."
+      },
+      {
+        "id": 57,
+        "question": "Garud Shakti is a bilateral army exercise with which country?",
+        "options": ["A) Indonesia", "B) Malaysia", "C) France", "D) Singapore"],
+        "answer": "A) Indonesia",
+        "explanation": "Garud Shakti aims to improve joint counter-terrorism operations and strengthen defense ties with Indonesia."
+      },
+      {
+        "id": 58,
+        "question": "Exercise DHARMA GUARDIAN is held with which country?",
+        "options": ["A) Japan", "B) China", "C) South Korea", "D) USA"],
+        "answer": "A) Japan",
+        "explanation": "Dharma Guardian is an Indian–Japanese army exercise focusing on counter-terrorism and disaster relief training."
+      },
+      {
+        "id": 59,
+        "question": "SLINEX is a bilateral naval exercise with which country?",
+        "options": ["A) Sri Lanka", "B) Singapore", "C) Bangladesh", "D) Maldives"],
+        "answer": "A) Sri Lanka",
+        "explanation": "SLINEX promotes maritime cooperation between Indian and Sri Lankan navies in the Indian Ocean region."
+      },
+      {
+        "id": 60,
+        "question": "Exercise CYCLONE is conducted between India and which country?",
+        "options": ["A) Egypt", "B) UK", "C) Germany", "D) USA"],
+        "answer": "A) Egypt",
+        "explanation": "CYCLONE is a joint military exercise with Egypt focusing on counter-terrorism and operational coordination."
+      },
+      {
+        "id": 61,
+        "question": "Vajra Prahar is a special forces exercise between India and which country?",
+        "options": ["A) USA", "B) UK", "C) Australia", "D) Germany"],
+        "answer": "A) USA",
+        "explanation": "Vajra Prahar enhances special forces interoperability between India and the US, focusing on counter-terrorism operations."
+      },
+      {
+        "id": 62,
+        "question": "INDRA exercise is held between India and which country?",
+        "options": ["A) Russia", "B) France", "C) USA", "D) UK"],
+        "answer": "A) Russia",
+        "explanation": "Exercise INDRA includes army, navy, and air force components to strengthen India–Russia military cooperation."
+      },
+      {
+        "id": 63,
+        "question": "Konkan naval exercise is conducted between India and which country?",
+        "options": ["A) UK", "B) France", "C) USA", "D) Japan"],
+        "answer": "A) UK",
+        "explanation": "Konkan promotes joint naval operations and maritime security exercises with the Royal Navy of the UK."
+      },
+      {
+        "id": 64,
+        "question": "Mitra Shakti 2023 focused primarily on?",
+        "options": ["A) Counter-terrorism", "B) Cybersecurity", "C) Space operations", "D) Naval warfare"],
+        "answer": "A) Counter-terrorism",
+        "explanation": "Mitra Shakti strengthens counter-insurgency and tactical operations between India and Sri Lanka."
+      },
+      {
+        "id": 65,
+        "question": "Exercise Hand-in-Hand is conducted with which country?",
+        "options": ["A) China", "B) Russia", "C) Japan", "D) France"],
+        "answer": "A) China",
+        "explanation": "Hand-in-Hand is a joint counter-terrorism and counter-insurgency exercise between the armies of India and China."
+      },
+      {
+        "id": 66,
+        "question": "Nomadic Elephant is a bilateral exercise with which country?",
+        "options": ["A) Mongolia", "B) Nepal", "C) Bhutan", "D) Russia"],
+        "answer": "A) Mongolia",
+        "explanation": "Nomadic Elephant enhances military cooperation and training between Indian and Mongolian armies."
+      },
+      {
+        "id": 67,
+        "question": "Exercise INDRA NAVY is held between India and which country?",
+        "options": ["A) Russia", "B) France", "C) USA", "D) Japan"],
+        "answer": "A) Russia",
+        "explanation": "INDRA NAVY strengthens naval coordination, joint maneuvers, and maritime security with Russia."
+      },
+      {
+        "id": 68,
+        "question": "Vajra Kavach is a joint exercise with which country?",
+        "options": ["A) USA", "B) UK", "C) France", "D) Germany"],
+        "answer": "A) USA",
+        "explanation": "Vajra Kavach focuses on special forces tactical drills and counter-terror operations."
+      },
+      {
+        "id": 69,
+        "question": "Exercise Surya Kiran is conducted with which country?",
+        "options": ["A) Nepal", "B) Bangladesh", "C) Bhutan", "D) Sri Lanka"],
+        "answer": "A) Nepal",
+        "explanation": "Surya Kiran aims at joint military training and disaster management cooperation with the Nepali Army."
+      },
+      {
+        "id": 70,
+        "question": "Exercise Mitra Shakti promotes defense cooperation primarily in which region?",
+        "options": ["A) South Asia", "B) Middle East", "C) Southeast Asia", "D) Africa"],
+        "answer": "A) South Asia",
+        "explanation": "Mitra Shakti strengthens India’s military ties and operational coordination with Sri Lanka, enhancing regional security."
+      },
+      {
+        "id": 71,
+        "question": "Exercise Shakti 2022 focused on which domain?",
+        "options": ["A) Counter-terrorism", "B) Cybersecurity", "C) Naval warfare", "D) Space operations"],
+        "answer": "A) Counter-terrorism",
+        "explanation": "India–France exercise SHAKTI focuses on counter-terrorism drills and joint operational readiness for army units."
+      },
+      {
+        "id": 72,
+        "question": "Exercise Yudh Abhyas is primarily conducted in which terrain?",
+        "options": ["A) Desert", "B) Mountain", "C) Coastal", "D) Urban"],
+        "answer": "B) Mountain",
+        "explanation": "Yudh Abhyas with the USA often takes place in Himalayan terrains, enhancing high-altitude operational training."
+      },
+      {
+        "id": 73,
+        "question": "SIMBEX is an acronym for?",
+        "options": ["A) Singapore–India Maritime Bilateral Exercise", "B) South India Marine Battle Exercise", "C) Security India Military Bilateral Exercise", "D) Singapore India Military Bilateral Exercise"],
+        "answer": "A) Singapore–India Maritime Bilateral Exercise",
+        "explanation": "SIMBEX strengthens naval cooperation, anti-piracy drills, and interoperability between India and Singapore."
+      },
+      {
+        "id": 74,
+        "question": "Exercise Garuda involves which branches of India and France?",
+        "options": ["A) Army", "B) Navy", "C) Air Force", "D) Coast Guard"],
+        "answer": "C) Air Force",
+        "explanation": "Exercise Garuda focuses on aerial combat readiness and joint air operations between Indian and French air forces."
+      },
+      {
+        "id": 75,
+        "question": "Exercise JIMEX is associated with which ocean region?",
+        "options": ["A) Indian Ocean", "B) Pacific Ocean", "C) Atlantic Ocean", "D) Arctic Ocean"],
+        "answer": "A) Indian Ocean",
+        "explanation": "India–Japan naval JIMEX strengthens maritime security and anti-piracy operations in the Indian Ocean."
+      },
+      {
+        "id": 76,
+        "question": "Dharma Guardian exercise is conducted between India and which country?",
+        "options": ["A) Japan", "B) USA", "C) France", "D) China"],
+        "answer": "A) Japan",
+        "explanation": "Dharma Guardian enhances joint army counter-terrorism training and disaster response capabilities."
+      },
+      {
+        "id": 77,
+        "question": "Vajra Prahar 2023 focused on?",
+        "options": ["A) Special forces operations", "B) Air defense", "C) Naval combat", "D) Cybersecurity"],
+        "answer": "A) Special forces operations",
+        "explanation": "Vajra Prahar enhances joint counter-terrorism and tactical drills between India and US special forces."
+      },
+      {
+        "id": 78,
+        "question": "Exercise Konkan is conducted by India with which navy?",
+        "options": ["A) Royal Navy (UK)", "B) French Navy", "C) US Navy", "D) Japanese Navy"],
+        "answer": "A) Royal Navy (UK)",
+        "explanation": "Konkan focuses on maritime security, naval maneuvers, and tactical cooperation with the UK."
+      },
+      {
+        "id": 79,
+        "question": "Exercise Hand-in-Hand is a military drill with which country?",
+        "options": ["A) China", "B) Japan", "C) France", "D) Russia"],
+        "answer": "A) China",
+        "explanation": "Hand-in-Hand enhances counter-insurgency, counter-terrorism training, and trust-building along the India–China border."
+      },
+      {
+        "id": 80,
+        "question": "Nomadic Elephant strengthens cooperation with which army?",
+        "options": ["A) Mongolian Army", "B) Nepali Army", "C) Bhutan Army", "D) Maldivian Army"],
+        "answer": "A) Mongolian Army",
+        "explanation": "Nomadic Elephant enhances military cooperation and training between Indian and Mongolian armies."
+      },
+      {
+        "id": 81,
+        "question": "Surya Kiran is a bilateral exercise with which army?",
+        "options": ["A) Nepali Army", "B) Sri Lankan Army", "C) Bhutan Army", "D) Bangladeshi Army"],
+        "answer": "A) Nepali Army",
+        "explanation": "Surya Kiran enhances joint tactical training, disaster management, and regional security cooperation with Nepal."
+      },
+      {
+        "id": 82,
+        "question": "Garud Shakti primarily involves which type of forces?",
+        "options": ["A) Army", "B) Navy", "C) Air Force", "D) Coast Guard"],
+        "answer": "A) Army",
+        "explanation": "Garud Shakti focuses on counter-terrorism operations and army collaboration between India and Indonesia."
+      },
+      {
+        "id": 83,
+        "question": "Exercise CYCLONE enhances cooperation in which field?",
+        "options": ["A) Army operations", "B) Counter-terrorism", "C) Naval operations", "D) Air force combat"],
+        "answer": "B) Counter-terrorism",
+        "explanation": "CYCLONE with Egypt focuses on counter-terrorism, joint drills, and tactical training."
+      },
+      {
+        "id": 84,
+        "question": "Vajra Kavach is a special forces exercise with which country?",
+        "options": ["A) USA", "B) UK", "C) France", "D) Japan"],
+        "answer": "A) USA",
+        "explanation": "It improves coordination, tactical planning, and special forces interoperability between India and US forces."
+      },
+      {
+        "id": 85,
+        "question": "Mitra Shakti is conducted how often?",
+        "options": ["A) Annually", "B) Bi-annually", "C) Every 3 years", "D) Quarterly"],
+        "answer": "A) Annually",
+        "explanation": "Mitra Shakti strengthens India–Sri Lanka army relations through yearly joint military exercises."
+      },
+      {
+        "id": 86,
+        "question": "JIMEX focuses primarily on which operations?",
+        "options": ["A) Cybersecurity", "B) Anti-piracy and naval drills", "C) Space operations", "D) Special forces drills"],
+        "answer": "B) Anti-piracy and naval drills",
+        "explanation": "JIMEX promotes maritime security, search and rescue operations, and coordination in the Indo-Pacific."
+      },
+      {
+        "id": 87,
+        "question": "Exercise INDRA is a joint exercise with which country?",
+        "options": ["A) Russia", "B) USA", "C) France", "D) China"],
+        "answer": "A) Russia",
+        "explanation": "INDRA includes army and navy components, enhancing joint operational readiness between India and Russia."
+      },
+      {
+        "id": 88,
+        "question": "SLINEX promotes cooperation primarily in?",
+        "options": ["A) Counter-terrorism", "B) Maritime domain", "C) Air force tactics", "D) Cybersecurity"],
+        "answer": "B) Maritime domain",
+        "explanation": "SLINEX focuses on naval operations, maritime security, and regional cooperation with Sri Lanka."
+      },
+      {
+        "id": 89,
+        "question": "Dharma Guardian was first conducted in which year?",
+        "options": ["A) 2018", "B) 2016", "C) 2020", "D) 2015"],
+        "answer": "B) 2016",
+        "explanation": "Dharma Guardian strengthens India–Japan army coordination, focusing on counter-terrorism and disaster response."
+      },
+      {
+        "id": 90,
+        "question": "Exercise Konkan enhances cooperation in which sector?",
+        "options": ["A) Army", "B) Navy", "C) Air Force", "D) Cybersecurity"],
+        "answer": "B) Navy",
+        "explanation": "It focuses on joint naval maneuvers, maritime security drills, and tactical interoperability with the UK."
+      },
+      {
+        "id": 91,
+        "question": "Exercise Surya Kiran enhances cooperation primarily in?",
+        "options": ["A) Air Force operations", "B) Disaster management and army training", "C) Naval operations", "D) Cybersecurity"],
+        "answer": "B) Disaster management and army training",
+        "explanation": "Surya Kiran with Nepal focuses on joint army maneuvers, disaster relief drills, and operational coordination."
+      },
+      {
+        "id": 92,
+        "question": "Vajra Prahar aims to improve interoperability in which domain?",
+        "options": ["A) Special forces operations", "B) Air combat", "C) Naval maneuvers", "D) Cybersecurity"],
+        "answer": "A) Special forces operations",
+        "explanation": "It strengthens joint tactical training and counter-terror operations between Indian and US special forces."
+      },
+      {
+        "id": 93,
+        "question": "Exercise Yudh Abhyas enhances cooperation in which environment?",
+        "options": ["A) Coastal", "B) Mountainous", "C) Desert", "D) Urban"],
+        "answer": "B) Mountainous",
+        "explanation": "Conducted with the USA, it prepares troops for high-altitude warfare and joint army operations."
+      },
+      {
+        "id": 94,
+        "question": "JIMEX focuses on joint exercises primarily in?",
+        "options": ["A) Land operations", "B) Maritime operations", "C) Air defense", "D) Cybersecurity"],
+        "answer": "B) Maritime operations",
+        "explanation": "India–Japan JIMEX strengthens naval interoperability, anti-piracy drills, and maritime security."
+      },
+      {
+        "id": 95,
+        "question": "Exercise Hand-in-Hand is conducted to improve?",
+        "options": ["A) Counter-terrorism and military cooperation", "B) Naval strategies", "C) Air combat techniques", "D) Space operations"],
+        "answer": "A) Counter-terrorism and military cooperation",
+        "explanation": "It’s a joint India–China army exercise to enhance coordination and build trust along the border."
+      },
+      {
+        "id": 96,
+        "question": "Exercise Garuda primarily involves which countries?",
+        "options": ["A) India–France", "B) India–Indonesia", "C) India–USA", "D) India–UK"],
+        "answer": "B) India–Indonesia",
+        "explanation": "Garuda focuses on army-level counter-terrorism drills and strengthening bilateral defense ties."
+      },
+      {
+        "id": 97,
+        "question": "Konkan naval exercise is aimed at?",
+        "options": ["A) Space operations", "B) Naval operations and maritime security", "C) Cybersecurity drills", "D) Special forces training"],
+        "answer": "B) Naval operations and maritime security",
+        "explanation": "India–UK Konkan ensures joint tactical exercises and maritime interoperability."
+      },
+      {
+        "id": 98,
+        "question": "Exercise Vajra Kavach is associated with which special capability?",
+        "options": ["A) Army special forces", "B) Air combat", "C) Naval anti-piracy", "D) Cyber operations"],
+        "answer": "A) Army special forces",
+        "explanation": "It strengthens counter-terror operations and joint tactical training with US special forces."
+      },
+      {
+        "id": 99,
+        "question": "SLINEX focuses on cooperation in which region?",
+        "options": ["A) Indian Ocean", "B) Pacific Ocean", "C) Atlantic Ocean", "D) Mediterranean Sea"],
+        "answer": "A) Indian Ocean",
+        "explanation": "It enhances naval coordination, maritime security, and joint drills between India and Sri Lanka."
+      },
+      {
+        "id": 100,
+        "question": "Nomadic Elephant aims to strengthen India’s military cooperation with?",
+        "options": ["A) Mongolia", "B) Nepal", "C) Bhutan", "D) Bangladesh"],
+        "answer": "A) Mongolia",
+        "explanation": "It focuses on joint army training, peacekeeping exercises, and high-altitude operations."
+      }
+    ]
+  },
+  {
+    "topicName": "Central Government Schemes",
+    "startId": 101,
+    "endId": 150,
+    "questions": [
+      {
+        "id": 101,
+        "question": "Sukanya Samriddhi Yojana was launched in which year?",
+        "options": ["A) 2014", "B) 2015", "C) 2018", "D) 2020"],
+        "answer": "B) 2015",
+        "explanation": "Sukanya Samriddhi Yojana was launched in January 2015 under the Beti Bachao Beti Padhao campaign to promote savings for the girl child. It offers one of the highest interest rates among small savings schemes."
+      },
+      {
+        "id": 102,
+        "question": "Which scheme provides LPG connections to women from BPL households?",
+        "options": ["A) Atal Pension Yojana", "B) Jan Dhan Yojana", "C) Pradhan Mantri Ujjwala Yojana", "D) PM-KISAN"],
+        "answer": "C) Pradhan Mantri Ujjwala Yojana",
+        "explanation": "Launched in 2016, this scheme aims to provide clean cooking fuel (LPG) to women from below poverty line families. It also helps reduce health hazards caused by firewood."
+      },
+      {
+        "id": 103,
+        "question": "Pradhan Mantri Jan Dhan Yojana was launched in which year?",
+        "options": ["A) 2012", "B) 2014", "C) 2016", "D) 2018"],
+        "answer": "B) 2014",
+        "explanation": "PMJDY was launched on 28 August 2014 to ensure financial inclusion by opening zero-balance bank accounts, providing debit cards, and linking insurance benefits."
+      },
+      {
+        "id": 104,
+        "question": "‘Beti Bachao, Beti Padhao’ scheme is implemented by which ministry?",
+        "options": ["A) Ministry of Health", "B) Ministry of Women & Child Development", "C) Ministry of Education", "D) Ministry of Finance"],
+        "answer": "B) Ministry of Women & Child Development",
+        "explanation": "This flagship scheme was launched in 2015 to address the declining child sex ratio and promote education for girls. It is jointly run by the Ministry of Women & Child Development, Health, and Education."
+      },
+      {
+        "id": 105,
+        "question": "Atal Pension Yojana provides pension benefits mainly to?",
+        "options": ["A) Government employees", "B) Farmers", "C) Unorganized sector workers", "D) Senior citizens above 65 years"],
+        "answer": "C) Unorganized sector workers",
+        "explanation": "Launched in 2015, APY guarantees a fixed pension to workers in the unorganized sector. The pension ranges from ₹1000 to ₹5000 per month after age 60."
+      },
+      {
+        "id": 106,
+        "question": "The slogan “Mera Khata Bhagya Vidhata” is related to which scheme?",
+        "options": ["A) Jan Dhan Yojana", "B) Digital India", "C) Startup India", "D) PM Ujjwala Yojana"],
+        "answer": "A) Jan Dhan Yojana",
+        "explanation": "The slogan emphasizes that bank accounts bring financial empowerment. Under PMJDY, crores of people opened bank accounts, many with zero balance."
+      },
+      {
+        "id": 107,
+        "question": "Which scheme is also called the “world’s largest health assurance scheme”?",
+        "options": ["A) Ayushman Bharat – PMJAY", "B) Rashtriya Swasthya Bima Yojana", "C) Arogya Setu", "D) Nirmaya Scheme"],
+        "answer": "A) Ayushman Bharat – PMJAY",
+        "explanation": "Launched in 2018, Ayushman Bharat provides ₹5 lakh annual health cover per family for poor and vulnerable groups, covering over 50 crore Indians."
+      },
+      {
+        "id": 108,
+        "question": "Which ministry implements the Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
+        "options": ["A) Ministry of Labour", "B) Ministry of Education", "C) Ministry of Skill Development & Entrepreneurship", "D) Ministry of Finance"],
+        "answer": "C) Ministry of Skill Development & Entrepreneurship",
+        "explanation": "PMKVY was launched in 2015 to provide industry-relevant skills to youth. It aims to make them more employable through skill certification."
+      },
+      {
+        "id": 109,
+        "question": "PM-Kisan scheme provides direct income support to how many farmers annually?",
+        "options": ["A) ₹2000", "B) ₹4000", "C) ₹6000", "D) ₹10,000"],
+        "answer": "C) ₹6000",
+        "explanation": "PM-KISAN was launched in 2019. It provides ₹6000 per year in 3 equal installments directly into the bank accounts of eligible farmers."
+      },
+      {
+        "id": 110,
+        "question": "Which scheme aims to build affordable housing for the urban poor by 2022?",
+        "options": ["A) Smart Cities Mission", "B) Pradhan Mantri Awas Yojana (Urban)", "C) Swachh Bharat Mission", "D) AMRUT"],
+        "answer": "B) Pradhan Mantri Awas Yojana (Urban)",
+        "explanation": "Launched in 2015, PMAY-U targets “Housing for All by 2022.” It provides interest subsidies and support for urban housing construction."
+      },
+      {
+        "id": 111,
+        "question": "Which scheme was launched to provide cooking gas connections to poor families?",
+        "options": ["A) PMJDY", "B) PMUY", "C) PMAY", "D) PMKISAN"],
+        "answer": "B) PMUY",
+        "explanation": "Pradhan Mantri Ujjwala Yojana (2016) provides LPG connections to poor women. It aims to protect health and reduce indoor air pollution."
+      },
+      {
+        "id": 112,
+        "question": "National Nutrition Mission is popularly known as?",
+        "options": ["A) Poshan Abhiyaan", "B) Swachh Bharat", "C) Ayushman Bharat", "D) Mission Indradhanush"],
+        "answer": "A) Poshan Abhiyaan",
+        "explanation": "Launched in 2018, Poshan Abhiyaan addresses malnutrition in children, adolescent girls, and women through multi-ministerial efforts."
+      },
+      {
+        "id": 113,
+        "question": "Which scheme launched in 2014 aims to build 100 modern cities?",
+        "options": ["A) Smart Cities Mission", "B) AMRUT", "C) Rurban Mission", "D) Digital India"],
+        "answer": "A) Smart Cities Mission",
+        "explanation": "Smart Cities Mission provides core infrastructure, sustainable environment, and smart solutions in 100 cities for urban development."
+      },
+      {
+        "id": 114,
+        "question": "Under Pradhan Mantri Fasal Bima Yojana, farmers are insured against?",
+        "options": ["A) Accidents", "B) Crop failure", "C) Education expenses", "D) Employment loss"],
+        "answer": "B) Crop failure",
+        "explanation": "Launched in 2016, PMFBY provides affordable crop insurance to farmers against natural calamities and crop failure."
+      },
+      {
+        "id": 115,
+        "question": "Stand-Up India scheme mainly supports?",
+        "options": ["A) Large industries", "B) SC/ST and women entrepreneurs", "C) Government officers", "D) Only IT companies"],
+        "answer": "B) SC/ST and women entrepreneurs",
+        "explanation": "Stand-Up India provides loans from ₹10 lakh to ₹1 crore to SC/ST and women entrepreneurs for setting up greenfield enterprises."
+      },
+      {
+        "id": 116,
+        "question": "Which scheme provides LPG subsidy directly into the consumer’s bank account?",
+        "options": ["A) PAHAL (DBTL)", "B) PMUY", "C) Jan Suraksha", "D) PMJDY"],
+        "answer": "A) PAHAL (DBTL)",
+        "explanation": "PAHAL (Direct Benefit Transfer for LPG Subsidy) ensures subsidies reach beneficiaries directly, preventing leakage and corruption."
+      },
+      {
+        "id": 117,
+        "question": "PM-SYM refers to which pension scheme?",
+        "options": ["A) Pradhan Mantri Shram Yogi Maan-dhan", "B) Senior Yogi Mission", "C) Skill Youth Mission", "D) Social Youth Mandal"],
+        "answer": "A) Pradhan Mantri Shram Yogi Maan-dhan",
+        "explanation": "PM-SYM provides a monthly pension of ₹3000 after age 60 to unorganized workers earning up to ₹15,000 per month."
+      },
+      {
+        "id": 118,
+        "question": "Which scheme provides scholarships for higher education to meritorious students from minority communities?",
+        "options": ["A) Udaan", "B) Nai Udaan", "C) Nai Manzil", "D) Maulana Azad National Fellowship"],
+        "answer": "D) Maulana Azad National Fellowship",
+        "explanation": "MANF supports students from minority communities pursuing MPhil/PhD by providing scholarships."
+      },
+      {
+        "id": 119,
+        "question": "The scheme “Mission Indradhanush” is related to?",
+        "options": ["A) Road construction", "B) Immunization", "C) Skill development", "D) Housing"],
+        "answer": "B) Immunization",
+        "explanation": "Mission Indradhanush (2014) ensures full immunization coverage for children and pregnant women against seven preventable diseases."
+      },
+      {
+        "id": 120,
+        "question": "Which scheme aims to provide universal health insurance coverage to poor families?",
+        "options": ["A) Rashtriya Swasthya Bima Yojana", "B) Ayushman Bharat", "C) PMJDY", "D) NITI Aayog"],
+        "answer": "A) Rashtriya Swasthya Bima Yojana",
+        "explanation": "RSBY provides health insurance coverage of up to ₹30,000 per family below the poverty line."
+      },
+      {
+        "id": 121,
+        "question": "Which scheme is aimed at providing piped drinking water to every rural household by 2024?",
+        "options": ["A) Jal Jeevan Mission", "B) AMRUT", "C) Swachh Bharat Mission", "D) Digital India"],
+        "answer": "A) Jal Jeevan Mission",
+        "explanation": "Launched in 2019, Jal Jeevan Mission ensures “Har Ghar Jal” by providing tap water connections to all rural households."
+      },
+      {
+        "id": 122,
+        "question": "Which scheme is known as the world’s largest cleanliness drive?",
+        "options": ["A) Swachh Bharat Mission", "B) Smart Cities Mission", "C) PM Awas Yojana", "D) Jal Jeevan Mission"],
+        "answer": "A) Swachh Bharat Mission",
+        "explanation": "Launched on 2nd October 2014, SBM aimed to make India open defecation free and promote sanitation."
+      },
+      {
+        "id": 123,
+        "question": "Which scheme provides micro-loans up to ₹10 lakh to small businesses without collateral?",
+        "options": ["A) MUDRA Yojana", "B) PMJDY", "C) Skill India Mission", "D) PMKISAN"],
+        "answer": "A) MUDRA Yojana",
+        "explanation": "Pradhan Mantri MUDRA Yojana (2015) promotes micro-entrepreneurs through Shishu, Kishor, and Tarun loan categories."
+      },
+      {
+        "id": 124,
+        "question": "Which scheme provides accidental insurance cover of ₹2 lakh for a premium of ₹12/year?",
+        "options": ["A) PMJDY", "B) PM Suraksha Bima Yojana", "C) PM Jeevan Jyoti Bima Yojana", "D) Ayushman Bharat"],
+        "answer": "B) PM Suraksha Bima Yojana",
+        "explanation": "PMSBY (2015) offers low-cost accident insurance for citizens aged 18–70 years."
+      },
+      {
+        "id": 125,
+        "question": "The PM Jeevan Jyoti Bima Yojana offers life insurance of?",
+        "options": ["A) ₹1 lakh", "B) ₹2 lakh", "C) ₹3 lakh", "D) ₹5 lakh"],
+        "answer": "B) ₹2 lakh",
+        "explanation": "PMJJBY (2015) provides life insurance cover of ₹2 lakh at a premium of ₹330 per annum for ages 18–50."
+      },
+      {
+        "id": 126,
+        "question": "Which scheme was launched to double farmers’ income by providing minimum support?",
+        "options": ["A) PM-Kisan", "B) PM-KMY", "C) PM AASHA", "D) PMFBY"],
+        "answer": "C) PM AASHA",
+        "explanation": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (2018) ensures MSP for farmers through procurement and price support schemes."
+      },
+      {
+        "id": 127,
+        "question": "Which scheme promotes 100% village electrification?",
+        "options": ["A) Deen Dayal Upadhyaya Gram Jyoti Yojana", "B) Saubhagya Yojana", "C) AMRUT", "D) Rurban Mission"],
+        "answer": "A) Deen Dayal Upadhyaya Gram Jyoti Yojana",
+        "explanation": "DDU-GJY focuses on feeder separation and rural electrification to strengthen rural power supply."
+      },
+      {
+        "id": 128,
+        "question": "The Saubhagya scheme is related to?",
+        "options": ["A) Education", "B) Rural Electrification", "C) Housing", "D) Drinking water"],
+        "answer": "B) Rural Electrification",
+        "explanation": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana (2017) aims to provide electricity connections to all households."
+      },
+      {
+        "id": 129,
+        "question": "Which scheme provides income support to small and marginal farmers?",
+        "options": ["A) PM Kisan Samman Nidhi", "B) PMFBY", "C) Atal Pension Yojana", "D) MNREGA"],
+        "answer": "A) PM Kisan Samman Nidhi",
+        "explanation": "PM-Kisan provides ₹6000 per year in three installments directly to farmers’ bank accounts."
+      },
+      {
+        "id": 130,
+        "question": "Which scheme guarantees 100 days of wage employment in rural areas?",
+        "options": ["A) Rurban Mission", "B) MNREGA", "C) PMJDY", "D) PMUY"],
+        "answer": "B) MNREGA",
+        "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act (2005) provides guaranteed wage employment to rural households."
+      },
+      {
+        "id": 131,
+        "question": "Which scheme was launched to develop rural growth clusters?",
+        "options": ["A) Shyama Prasad Mukherji Rurban Mission", "B) PM Awas Yojana", "C) Digital India", "D) BharatNet"],
+        "answer": "A) Rurban Mission",
+        "explanation": "Launched in 2016, it develops clusters of villages with urban-like facilities to reduce rural-urban migration."
+      },
+      {
+        "id": 132,
+        "question": "Which scheme promotes entrepreneurship and skill training for minorities?",
+        "options": ["A) Nai Roshni", "B) Nai Manzil", "C) Udaan", "D) Hunar Haat"],
+        "answer": "B) Nai Manzil",
+        "explanation": "Nai Manzil provides integrated education and skill training for youth from minority communities."
+      },
+      {
+        "id": 133,
+        "question": "Which scheme provides an insurance cover of ₹5 lakh per family per year?",
+        "options": ["A) Ayushman Bharat", "B) PMJJBY", "C) PMSBY", "D) RSBY"],
+        "answer": "A) Ayushman Bharat",
+        "explanation": "PM-JAY (2018) covers secondary and tertiary hospitalization expenses for poor and vulnerable families."
+      },
+      {
+        "id": 134,
+        "question": "Which scheme aims to revive traditional industries?",
+        "options": ["A) Stand-Up India", "B) Start-Up India", "C) SFURTI", "D) Digital India"],
+        "answer": "C) SFURTI",
+        "explanation": "Scheme of Fund for Regeneration of Traditional Industries (SFURTI) promotes Khadi, coir, and village industries."
+      },
+      {
+        "id": 135,
+        "question": "Which scheme provides internet connectivity in rural areas via optical fiber?",
+        "options": ["A) BharatNet", "B) Digital India", "C) AMRUT", "D) Rurban Mission"],
+        "answer": "A) BharatNet",
+        "explanation": "BharatNet is the world’s largest rural broadband project connecting 2.5 lakh Gram Panchayats."
+      },
+      {
+        "id": 136,
+        "question": "Which scheme provides financial support to pregnant women for nutritious food and rest?",
+        "options": ["A) POSHAN Abhiyaan", "B) PM Matru Vandana Yojana", "C) Janani Suraksha Yojana", "D) Ujjwala Yojana"],
+        "answer": "B) PM Matru Vandana Yojana",
+        "explanation": "PMMVY provides ₹5000 to pregnant and lactating women for wage loss compensation and proper nutrition."
+      },
+      {
+        "id": 137,
+        "question": "Which scheme focuses on skilling youth for the aviation sector?",
+        "options": ["A) Udaan", "B) Hunar se Rozgar Tak", "C) Hunar Haat", "D) Kaushal Bharat"],
+        "answer": "A) Udaan",
+        "explanation": "Udaan provides skill training and employment opportunities in aviation and other specialized sectors."
+      },
+      {
+        "id": 138,
+        "question": "Which scheme aims to reduce urban poverty through skill training and self-employment?",
+        "options": ["A) PMKVY", "B) Deen Dayal Antyodaya Yojana – NULM", "C) AMRUT", "D) Swachh Bharat Mission"],
+        "answer": "B) Deen Dayal Antyodaya Yojana – NULM",
+        "explanation": "National Urban Livelihood Mission focuses on reducing poverty and vulnerability of urban poor households."
+      },
+      {
+        "id": 139,
+        "question": "Which scheme promotes entrepreneurship in biotechnology?",
+        "options": ["A) Biotech-KISAN", "B) Startup India", "C) PM AASHA", "D) MUDRA"],
+        "answer": "A) Biotech-KISAN",
+        "explanation": "Biotech-KISAN empowers farmers with innovative biotech solutions to increase productivity."
+      },
+      {
+        "id": 140,
+        "question": "Which scheme promotes 100% household electrification?",
+        "options": ["A) Saubhagya Yojana", "B) PMKVY", "C) MNREGA", "D) RSBY"],
+        "answer": "A) Saubhagya Yojana",
+        "explanation": "Launched in 2017, Saubhagya ensured last-mile connectivity to all un-electrified households."
+      },
+      {
+        "id": 141,
+        "question": "Which scheme is called the “world’s largest financial inclusion initiative”?",
+        "options": ["A) PMJDY", "B) PMUY", "C) PMKVY", "D) RSBY"],
+        "answer": "A) PMJDY",
+        "explanation": "Over 47 crore bank accounts were opened under Jan Dhan Yojana since 2014."
+      },
+      {
+        "id": 142,
+        "question": "Which scheme aims to improve maternal and child health by institutional deliveries?",
+        "options": ["A) Janani Suraksha Yojana", "B) PMMVY", "C) POSHAN", "D) Ayushman Bharat"],
+        "answer": "A) Janani Suraksha Yojana",
+        "explanation": "JSY provides cash incentives to pregnant women for institutional deliveries to reduce maternal mortality."
+      },
+      {
+        "id": 143,
+        "question": "Which scheme provides collateral-free education loans for minority students?",
+        "options": ["A) Vidya Lakshmi", "B) Udaan", "C) Nai Udaan", "D) MANF"],
+        "answer": "A) Vidya Lakshmi",
+        "explanation": "Vidya Lakshmi Portal connects students with banks to avail loans and scholarships for higher studies."
+      },
+      {
+        "id": 144,
+        "question": "Which scheme is related to promoting digital payments ecosystem in India?",
+        "options": ["A) Digital India", "B) PMGDISHA", "C) BharatNet", "D) BHIM"],
+        "answer": "D) BHIM",
+        "explanation": "Bharat Interface for Money (BHIM) promotes digital transactions using UPI for financial inclusion."
+      },
+      {
+        "id": 145,
+        "question": "Which scheme was launched to provide pension to farmers above 60 years?",
+        "options": ["A) PM-KMY", "B) PM-KISAN", "C) Atal Pension Yojana", "D) PM-SYM"],
+        "answer": "A) PM-KMY",
+        "explanation": "Pradhan Mantri Kisan Maan-dhan Yojana gives farmers a pension of ₹3000 per month after 60 years."
+      },
+      {
+        "id": 146,
+        "question": "Which scheme aims to transform India into a global manufacturing hub?",
+        "options": ["A) Make in India", "B) Digital India", "C) Startup India", "D) AMRUT"],
+        "answer": "A) Make in India",
+        "explanation": "Launched in 2014, it boosts domestic manufacturing and attracts FDI in 25 sectors."
+      },
+      {
+        "id": 147,
+        "question": "Which scheme promotes entrepreneurship and innovation among youth?",
+        "options": ["A) Startup India", "B) Stand-Up India", "C) Skill India", "D) Digital India"],
+        "answer": "A) Startup India",
+        "explanation": "Startup India (2016) supports startups with tax exemptions, incubation, and funding support."
+      },
+      {
+        "id": 148,
+        "question": "Which scheme provides digital literacy to rural households?",
+        "options": ["A) Digital India", "B) PMGDISHA", "C) BharatNet", "D) Rurban Mission"],
+        "answer": "B) PMGDISHA",
+        "explanation": "Pradhan Mantri Gramin Digital Saksharta Abhiyan aims to make 6 crore rural households digitally literate."
+      },
+      {
+        "id": 149,
+        "question": "Which scheme is related to providing free LPG connections to poor households?",
+        "options": ["A) PMUY", "B) Saubhagya", "C) PMJDY", "D) PMKVY"],
+        "answer": "A) PMUY",
+        "explanation": "PM Ujjwala Yojana ensures women’s health safety and clean fuel adoption by giving free LPG connections."
+      },
+      {
+        "id": 150,
+        "question": "Which scheme provides employment opportunities through afforestation and environmental activities?",
+        "options": ["A) Green India Mission", "B) MNREGA", "C) PMKVY", "D) AMRUT"],
+        "answer": "A) Green India Mission",
+        "explanation": "GIM enhances ecosystem services, carbon sequestration, and livelihoods through forest-based employment."
+      }
+    ]
+  },
+  {
+    "topicName": "International Conferences and Treaties",
+    "startId": 151,
+    "endId": 185,
+    "questions": [
+      {
+        "id": 151,
+        "question": "Consider the following statements regarding the United Nations (UN): 1. The UN was founded in 1945 after World War II. 2. Its headquarters is located in New York, USA. 3. The Security Council has 10 permanent members and 5 non-permanent members elected for two years. 4. India is a charter member of the UN. Which of the statements above is/are correct?",
+        "options": ["Only 1, 2 and 4", "Only 1 and 3", "Only 2 and 4", "All of the above"],
+        "answer": "Only 1, 2 and 4",
+        "explanation": "The UN was founded in 1945, HQ New York. UNSC has 5 permanent +10 non-permanent members. India is a charter member."
+      },
+      {
+        "id": 152,
+        "question": "Which of the following is correct about the International Monetary Fund (IMF)? 1. Founded in 1944 at Bretton Woods Conference. 2. Headquartered in Washington D.C. 3. Official language is French only. 4. Provides short-term financial assistance to member countries in balance of payments crises.",
+        "options": ["Only 1, 2 and 4", "Only 3", "Only 2 and 3", "All of the above"],
+        "answer": "Only 1, 2 and 4",
+        "explanation": "IMF was founded 1944, HQ Washington DC, provides financial help, but has multiple official languages, not just French."
+      },
+      {
+        "id": 153,
+        "question": "Consider the following about the World Bank Group: 1. It has five institutions, including IBRD and IDA. 2. It provides long-term loans for development projects. 3. Its HQ is in Paris, France. 4. India is a founding member. Which statements are correct?",
+        "options": ["Only 1, 2 and 3", "Only 1 and 2", "Only 1, 2 and 4", "All of the above"],
+        "answer": "Only 1, 2 and 4",
+        "explanation": "The World Bank Group has five arms; HQ is Washington, not Paris. India is founding member."
+      },
+      {
+        "id": 154,
+        "question": "Headquarters of the International Court of Justice (ICJ) is located in:",
+        "options": ["Geneva, Switzerland", "The Hague, Netherlands", "Vienna, Austria", "New York, USA"],
+        "answer": "The Hague, Netherlands",
+        "explanation": "ICJ is judicial organ of UN, located in The Hague."
+      },
+      {
+        "id": 155,
+        "question": "Which of the following UN agencies was awarded the Nobel Peace Prize in 2020?",
+        "options": ["WHO", "UNHCR", "World Food Programme", "UNICEF"],
+        "answer": "World Food Programme",
+        "explanation": "WFP awarded Nobel Peace Prize 2020 for combating hunger."
+      },
+      {
+        "id": 156,
+        "question": "Which country is NOT a member of G7?",
+        "options": ["Canada", "Japan", "Russia", "Italy"],
+        "answer": "Russia",
+        "explanation": "G7 countries: USA, UK, France, Germany, Italy, Canada, Japan. Russia was suspended in 2014."
+      },
+      {
+        "id": 157,
+        "question": "Which of the following is NOT a specialized agency of the United Nations?",
+        "options": ["WHO", "ITU", "WTO", "ILO"],
+        "answer": "WTO",
+        "explanation": "WTO is an independent organisation, not UN specialized agency."
+      },
+      {
+        "id": 158,
+        "question": "Correct arrangement of headquarters and organisations: 1. FAO – Rome 2. UNESCO – Paris 3. WHO – Geneva 4. IAEA – Vienna",
+        "options": ["Only 1, 2 and 3", "Only 2 and 4", "1, 2, 3 and 4", "Only 1 and 4"],
+        "answer": "1, 2, 3 and 4",
+        "explanation": "All organisations are correctly matched with their headquarters."
+      },
+      {
+        "id": 159,
+        "question": "Which UN body can impose sanctions and authorize military force?",
+        "options": ["General Assembly", "Security Council", "Economic & Social Council", "Trusteeship Council"],
+        "answer": "Security Council",
+        "explanation": "UN Security Council is responsible for peace and security."
+      },
+      {
+        "id": 160,
+        "question": "The International Criminal Court (ICC) is headquartered in:",
+        "options": ["Geneva", "Rome", "The Hague", "Washington D.C."],
+        "answer": "The Hague",
+        "explanation": "ICC prohibits crimes against humanity, war crimes, genocide."
+      },
+      {
+        "id": 161,
+        "question": "Which of the following is NOT a principal organ of the United Nations?",
+        "options": ["Security Council", "Economic and Social Council", "International Court of Justice", "World Trade Organization"],
+        "answer": "World Trade Organization",
+        "explanation": "WTO is not part of UN structure."
+      },
+      {
+        "id": 162,
+        "question": "The Secretariat of SAARC is located in:",
+        "options": ["New Delhi", "Dhaka", "Kathmandu", "Islamabad"],
+        "answer": "Kathmandu",
+        "explanation": "SAARC Secretariat established in Kathmandu, Nepal."
+      },
+      {
+        "id": 163,
+        "question": "Which of the following countries is NOT a member of BRICS?",
+        "options": ["Brazil", "Russia", "Canada", "South Africa"],
+        "answer": "Canada",
+        "explanation": "BRICS = Brazil, Russia, India, China, South Africa."
+      },
+      {
+        "id": 164,
+        "question": "ASEAN headquarters is located at:",
+        "options": ["Jakarta", "Bangkok", "Manila", "Kuala Lumpur"],
+        "answer": "Jakarta",
+        "explanation": "ASEAN Secretariat located in Jakarta, Indonesia."
+      },
+      {
+        "id": 165,
+        "question": "Which country is not in the G20 grouping?",
+        "options": ["India", "Argentina", "Spain", "Saudi Arabia"],
+        "answer": "Spain",
+        "explanation": "Spain is a permanent invitee, not a member."
+      },
+      {
+        "id": 166,
+        "question": "Which agencies are part of Bretton Woods Institutions?",
+        "options": ["Only IMF and IBRD", "Only IBRD and WTO", "Only IMF and WTO", "All three IMF, IBRD and WTO"],
+        "answer": "Only IMF and IBRD",
+        "explanation": "Bretton Woods institutions are IMF and IBRD (World Bank). WTO came much later."
+      },
+      {
+        "id": 167,
+        "question": "International Atomic Energy Agency (IAEA) is headquartered at:",
+        "options": ["Geneva", "Vienna", "Rome", "Washington"],
+        "answer": "Vienna",
+        "explanation": "IAEA HQ is Vienna, Austria."
+      },
+      {
+        "id": 168,
+        "question": "International Labour Organization (ILO) was awarded Nobel Peace Prize in:",
+        "options": ["1919", "1948", "1969", "2001"],
+        "answer": "1969",
+        "explanation": "ILO received Nobel in 1969 on 50th anniversary."
+      },
+      {
+        "id": 169,
+        "question": "India is NOT a member of:",
+        "options": ["WHO", "G20", "OPEC", "BRICS"],
+        "answer": "OPEC",
+        "explanation": "India is a major oil importer, not exporter, hence not in OPEC."
+      },
+      {
+        "id": 170,
+        "question": "WTO was established in:",
+        "options": ["1948", "1991", "1995", "2000"],
+        "answer": "1995",
+        "explanation": "WTO was established in 1995, replacing GATT."
+      },
+      {
+        "id": 171,
+        "question": "Which agency publishes the World Development Report?",
+        "options": ["IMF", "World Bank", "WTO", "UNDP"],
+        "answer": "World Bank",
+        "explanation": "The report analyzes global development."
+      },
+      {
+        "id": 172,
+        "question": "Which among the following is oldest?",
+        "options": ["UN", "ILO", "World Bank", "UNESCO"],
+        "answer": "ILO",
+        "explanation": "ILO was established in 1919, older than UN."
+      },
+      {
+        "id": 173,
+        "question": "Headquarters of International Fund for Agricultural Development (IFAD) is in:",
+        "options": ["Rome", "Washington", "Geneva", "Nairobi"],
+        "answer": "Rome",
+        "explanation": "IFAD works on rural poverty, HQ Rome, Italy."
+      },
+      {
+        "id": 174,
+        "question": "Which UN agency monitors climate-related science assessments through IPCC?",
+        "options": ["UNEP", "FAO", "UNESCO", "UNDP"],
+        "answer": "UNEP",
+        "explanation": "IPCC is co-sponsored by UNEP and WMO."
+      },
+      {
+        "id": 175,
+        "question": "Which of the following organisations is associated with global trade rules?",
+        "options": ["WTO", "IMF", "UNCTAD", "Both WTO and UNCTAD"],
+        "answer": "Both WTO and UNCTAD",
+        "explanation": "WTO creates binding rules, UNCTAD gives trade advice."
+      },
+      {
+        "id": 176,
+        "question": "The first Earth Summit (UNCED) was held in:",
+        "options": ["Kyoto, Japan, 1997", "Rio de Janeiro, Brazil, 1992", "Stockholm, Sweden, 1972", "Johannesburg, South Africa, 2002"],
+        "answer": "Rio de Janeiro, Brazil, 1992",
+        "explanation": "Earth Summit 1992 in Rio adopted Agenda 21 and emphasized sustainable development."
+      },
+      {
+        "id": 177,
+        "question": "The Paris Agreement (2015) is associated with:",
+        "options": ["Sustainable development goals", "Greenhouse gas emission reduction", "Nuclear arms control", "Free trade regulations"],
+        "answer": "Greenhouse gas emission reduction",
+        "explanation": "Paris Agreement COP21 focused on limiting climate change."
+      },
+      {
+        "id": 178,
+        "question": "Which conference led to the establishment of the League of Nations?",
+        "options": ["San Francisco 1945", "Paris Peace Conference 1919", "Bretton Woods 1944", "Yalta Conference 1945"],
+        "answer": "Paris Peace Conference 1919",
+        "explanation": "The Treaty of Versailles created League of Nations after WWI."
+      },
+      {
+        "id": 179,
+        "question": "At which conference were the Sustainable Development Goals (SDGs) adopted?",
+        "options": ["Rio+20 2012", "New York UNGA 2015", "Johannesburg 2002", "Kyoto 1997"],
+        "answer": "New York UNGA 2015",
+        "explanation": "UNGA 2015 adopted 17 SDGs known as Agenda 2030."
+      },
+      {
+        "id": 180,
+        "question": "Which international conference created the IMF and World Bank?",
+        "options": ["Havana Conference 1947", "Bretton Woods 1944", "San Francisco 1945", "GATT 1948"],
+        "answer": "Bretton Woods 1944",
+        "explanation": "Bretton Woods created IMF & World Bank."
+      },
+      {
+        "id": 181,
+        "question": "The first UN Conference on Human Environment (Stockholm Conference) was held in:",
+        "options": ["1968", "1972", "1982", "1992"],
+        "answer": "1972",
+        "explanation": "Stockholm 1972 was pioneering environmental summit."
+      },
+      {
+        "id": 182,
+        "question": "The Montreal Protocol (1987) deals with:",
+        "options": ["Climate change gases", "Ozone-depleting substances", "Nuclear arms", "Air pollution"],
+        "answer": "Ozone-depleting substances",
+        "explanation": "Montreal Protocol regulates CFCs and ODS."
+      },
+      {
+        "id": 183,
+        "question": "Which international conference resulted in adoption of Kyoto Protocol?"
+        ,
+        "options": ["COP-1 Berlin 1995", "COP-3 Kyoto 1997", "COP-21 Paris 2015", "COP-10 Buenos Aires 2004"],
+        "answer": "COP-3 Kyoto 1997",
+        "explanation": "Kyoto Protocol was signed at COP3 imposing binding emission targets."
+      },
+      {
+        "id": 184,
+        "question": "Agenda 21 was adopted at:",
+        "options": ["Stockholm 1972", "Kyoto 1997", "Rio 1992", "Copenhagen 2009"],
+        "answer": "Rio 1992",
+        "explanation": "Agenda 21 was a non-binding action plan from Rio Summit."
+      },
+      {
+        "id": 185,
+        "question": "Which summit announced the Millennium Development Goals (MDGs)?",
+        "options": ["Johannesburg 2002", "UN Millennium Summit New York 2000", "Rio+20 2012", "G20 2008"],
+        "answer": "UN Millennium Summit New York 2000",
+        "explanation": "MDGs were adopted in 2000 for the period till 2015."
+      }
+    ]
+  },
+  {
+    "topicName": "Indian National Congress Sessions",
+    "startId": 181,
+    "endId": 210,
+    "questions": [
+      {
+        "id": 181,
+        "question": "The first Indian National Congress session (1885) was held at:",
+        "options": ["Bombay", "Calcutta", "Madras", "Allahabad"],
+        "answer": "Bombay",
+        "explanation": "First INC session held at Bombay, presided by W.C. Bonnerjee."
+      },
+      {
+        "id": 182,
+        "question": "Who presided over the first session of Indian National Congress?",
+        "options": ["A.O. Hume", "Dadabhai Naoroji", "W.C. Bonnerjee", "Tilak"],
+        "answer": "W.C. Bonnerjee",
+        "explanation": "Bonnerjee presided at 1885 session."
+      },
+      {
+        "id": 183,
+        "question": "The Surat Split of INC, 1907, occurred between:",
+        "options": ["Gandhi and Tilak", "Moderates and Extremists", "Tilak and Gokhale", "Nehru and Patel"],
+        "answer": "Moderates and Extremists",
+        "explanation": "Split at Surat between moderates like Gokhale and extremists like Tilak."
+      },
+      {
+        "id": 184,
+        "question": "The famous Lahore Session of Congress (1929) declared:",
+        "options": ["Gandhi-Irwin Pact", "Non-Cooperation", "Purna Swaraj", "Quit India"],
+        "answer": "Purna Swaraj",
+        "explanation": "Jawaharlal Nehru presided Lahore 1929 declaring complete independence."
+      },
+      {
+        "id": 185,
+        "question": "The Quit India Resolution was passed at:",
+        "options": ["Lahore 1929", "Bombay 1942", "Lucknow 1916", "Wardha 1939"],
+        "answer": "Bombay 1942",
+        "explanation": "Quit India adopted in Bombay 1942 session of AICC."
+      },
+      {
+        "id": 186,
+        "question": "The INC Lucknow Session of 1916 is remembered for:",
+        "options": ["Entry of Gandhi", "Launch of Home Rule", "Congress-League Pact", "Resolution on industries"],
+        "answer": "Congress-League Pact",
+        "explanation": "Lucknow pact between Congress and Muslim League 1916."
+      },
+      {
+        "id": 187,
+        "question": "Who presided the Belgaum Session of 1924?",
+        "options": ["Nehru", "Gandhi", "Patel", "Motilal Nehru"],
+        "answer": "Gandhi",
+        "explanation": "Only INC session presided by Mahatma Gandhi."
+      },
+      {
+        "id": 188,
+        "question": "The first woman president of INC was:",
+        "options": ["Vijay Lakshmi Pandit", "Annie Besant", "Sarojini Naidu", "Sucheta Kriplani"],
+        "answer": "Annie Besant",
+        "explanation": "Annie Besant presided Calcutta Session 1917."
+      },
+      {
+        "id": 189,
+        "question": "The Haripura Session 1938 presided by Subhas Bose emphasized:",
+        "options": ["Independence", "Socialist economic planning", "Quit India", "Salt March"],
+        "answer": "Socialist economic planning",
+        "explanation": "Haripura 1938 focused on socialist approach."
+      },
+      {
+        "id": 190,
+        "question": "The Tripuri Session 1939 is associated with:",
+        "options": ["Gandhi-Irwin Pact", "Resignation of Bose", "Quit India", "Non-Cooperation"],
+        "answer": "Resignation of Bose",
+        "explanation": "Tripuri session saw Bose resigning due to opposition."
+      },
+      {
+        "id": 191,
+        "question": "The Karachi Resolution (1931) dealt with:",
+        "options": ["Round table", "Fundamental Rights and Economic Policy", "Purna Swaraj", "Non-Cooperation"],
+        "answer": "Fundamental Rights and Economic Policy",
+        "explanation": "Karachi resolution 1931 focused on socio-economic justice."
+      },
+      {
+        "id": 192,
+        "question": "Nehru Report was associated with which INC session?",
+        "options": ["Calcutta 1928", "Lucknow 1916", "Lahore 1929", "Bombay 1931"],
+        "answer": "Calcutta 1928",
+        "explanation": "Nehru Report (Motilal Nehru) presented at Calcutta session 1928."
+      },
+      {
+        "id": 193,
+        "question": "The first Muslim President of INC was:",
+        "options": ["Abdulla Yusuf Ali", "Badruddin Tyabji", "Agha Khan", "Iqbal"],
+        "answer": "Badruddin Tyabji",
+        "explanation": "Tyabji presided over Madras Session 1887."
+      },
+      {
+        "id": 194,
+        "question": "Which session approved Non-Cooperation Movement?",
+        "options": ["Nagpur 1920", "Lahore 1929", "Bombay 1918", "Gaya 1922"],
+        "answer": "Nagpur 1920",
+        "explanation": "INC at Nagpur approved Non-Cooperation under Gandhi."
+      },
+      {
+        "id": 195,
+        "question": "Gandhi-Irwin Pact was ratified in which Congress session?",
+        "options": ["Karachi 1931", "Lahore 1929", "Nagpur 1920", "Belgaum 1924"],
+        "answer": "Karachi 1931",
+        "explanation": "Gandhi-Irwin pact was endorsed by Karachi session."
+      },
+      {
+        "id": 196,
+        "question": "The first INC President of Indian origin was:",
+        "options": ["W.C. Bonnerjee", "Badruddin Tyabji", "Naoroji", "Surendranath"],
+        "answer": "W.C. Bonnerjee",
+        "explanation": "Bonnerjee was first Indian President at 1885."
+      },
+      {
+        "id": 197,
+        "question": "Objectives Resolution which later became Preamble was first presented in:",
+        "options": ["Lahore 1929", "Karachi 1931", "Lucknow 1916", "Constituent Assembly 1946"],
+        "answer": "Constituent Assembly 1946",
+        "explanation": "Presented by Nehru in 1946 Constituent Assembly."
+      },
+      {
+        "id": 198,
+        "question": "Which session of INC saw acceptance of Gandhi’s Constructive Programme?",
+        "options": ["Nagpur 1920", "Lahore 1929", "Bombay 1924", "Wardha 1934"],
+        "answer": "Wardha 1934",
+        "explanation": "Wardha 1934 endorsed Gandhi’s Constructive Programme."
+      },
+      {
+        "id": 199,
+        "question": "Which annual INC session was cancelled due to repression during Civil Disobedience?",
+        "options": ["1932 Session", "1939 Session", "1907 Session", "1940 Session"],
+        "answer": "1932 Session",
+        "explanation": "1932 session was not held due to colonial repression."
+      },
+      {
+        "id": 200,
+        "question": "The last session of INC before independence was:",
+        "options": ["Delhi 1947", "Meerut 1946", "Calcutta 1947", "Bombay 1946"],
+        "answer": "Meerut 1946",
+        "explanation": "Meerut session presided by JB Kripalani."
+      },
+      {
+        "id": 201,
+        "question": "Who presided over the Lucknow Session 1916?",
+        "options": ["Annie Besant", "Ambica Charan Majumdar", "Tyabji", "SN Banerjee"],
+        "answer": "Ambica Charan Majumdar",
+        "explanation": "Ambica Charan Majumdar presided Lucknow 1916."
+      },
+      {
+        "id": 202,
+        "question": "The Banaras Session of INC 1905 was presided by:",
+        "options": ["Gokhale", "Naoroji", "Tilak", "Pal"],
+        "answer": "Gopal Krishna Gokhale",
+        "explanation": "Banaras 1905 presided by Gokhale promoting swadeshi."
+      },
+      {
+        "id": 203,
+        "question": "Who presided Calcutta Session 1906 demanding Swaraj?",
+        "options": ["Naoroji", "Gokhale", "Annie Besant", "Bonnerjee"],
+        "answer": "Dadabhai Naoroji",
+        "explanation": "Naoroji declared Swaraj as goal at Calcutta 1906."
+      },
+      {
+        "id": 204,
+        "question": "Where was the first All India Trade Union Congress held?",
+        "options": ["Bombay 1920", "Lucknow 1919", "Madras 1922", "Delhi 1925"],
+        "answer": "Bombay 1920",
+        "explanation": "AITUC founded in Bombay 1920 under Lala Lajpat Rai."
+      },
+      {
+        "id": 205,
+        "question": "The Poona Session of INC 1895 was presided by:",
+        "options": ["Gokhale", "Naoroji", "Surendranath Banerjee", "Bonnerjee"],
+        "answer": "Surendranath Banerjee",
+        "explanation": "Poona Session 1895 presided by Surendranath Banerjee."
+      },
+      {
+        "id": 206,
+        "question": "The Bandung Conference of 1955 is associated with:",
+        "options": ["Nuclear disarmament", "Non-Aligned Movement", "Decolonization", "Human Rights"],
+        "answer": "Non-Aligned Movement",
+        "explanation": "Bandung 1955 promoted solidarity of newly independent nations."
+      },
+      {
+        "id": 207,
+        "question": "Which international conference led to creation of the United Nations in 1945?",
+        "options": ["Bretton Woods", "Dumbarton Oaks", "San Francisco", "Yalta"],
+        "answer": "San Francisco",
+        "explanation": "San Francisco Conference in June 1945 adopted the UN Charter."
+      },
+      {
+        "id": 208,
+        "question": "COP26 Climate Conference 2021 was held at:",
+        "options": ["Madrid", "Bonn", "Glasgow", "Paris"],
+        "answer": "Glasgow",
+        "explanation": "COP26 hosted in Glasgow by UK in partnership with Italy."
+      },
+      {
+        "id": 209,
+        "question": "WTO was established at which conference?",
+        "options": ["Doha 2001", "Marrakesh 1994 Uruguay Round", "Geneva 1947", "Cancun 2003"],
+        "answer": "Marrakesh 1994 Uruguay Round",
+        "explanation": "WTO was created by the Marrakesh Agreement implementing Uruguay Round."
+      },
+      {
+        "id": 210,
+        "question": "The International Conference on Population and Development (ICPD) 1994 was held in:",
+        "options": ["Rio", "Cairo", "New Delhi", "Nairobi"],
+        "answer": "Cairo",
+        "explanation": "Cairo Conference 1994 focused on reproductive health and rights."
+      }
+    ]
+  },
+  {
+    "topicName": "Committees and Commissions in India",
+    "startId": 206,
+    "endId": 235,
+    "questions": [
+      {
+        "id": 206,
+        "question": "The Justice B.N. Srikrishna Committee (2008) was appointed to look into:",
+        "options": ["Telangana issue", "Police reforms", "Fiscal reforms", "Data protection"],
+        "answer": "Telangana issue",
+        "explanation": "Committee studied Telangana statehood demand."
+      },
+      {
+        "id": 207,
+        "question": "The Justice B.N. Srikrishna Committee (2017) is associated with:",
+        "options": ["Data Protection Bill", "Cyber crimes", "Transport", "Elections"],
+        "answer": "Data Protection Bill",
+        "explanation": "2017 committee drafted India’s first data protection bill."
+      },
+      {
+        "id": 208,
+        "question": "The Punchhi Commission (2007) focused on:",
+        "options": ["Centre-State", "Judicial Accountability", "Elections", "Women safety"],
+        "answer": "Centre-State",
+        "explanation": "Justice M.M. Punchhi recommended Center-State relation reforms."
+      },
+      {
+        "id": 209,
+        "question": "Which committee is known for police reforms in India?",
+        "options": ["Malimath Committee", "Prakash Singh Committee", "Kelkar Committee", "Shah Commission"],
+        "answer": "Prakash Singh Committee",
+        "explanation": "Prakash Singh case led to recommendations on police autonomy."
+      },
+      {
+        "id": 210,
+        "question": "The Sarkaria Commission (1983–88) was related to:",
+        "options": ["Centre-State", "Elections", "Telecom", "Education"],
+        "answer": "Centre-State",
+        "explanation": "Sarkaria reviewed Centre-State and federal structure."
+      },
+      {
+        "id": 211,
+        "question": "The Lodha Committee (2015) was associated with reforms in:",
+        "options": ["Elections", "RBI", "BCCI", "Power"],
+        "answer": "BCCI",
+        "explanation": "Justice Lodha suggested reforms in cricket administration BCCI."
+      },
+      {
+        "id": 212,
+        "question": "Which committee recommended RTE Act framework?",
+        "options": ["Yashpal", "Kothari", "Tapas Majumdar", "Verma"],
+        "answer": "Tapas Majumdar",
+        "explanation": "Tapas Majumdar Committee led to RTE Act."
+      },
+      {
+        "id": 213,
+        "question": "The Mandal Commission (1979) dealt with:",
+        "options": ["Minorities", "Reservation in jobs", "Electoral roll", "Land reforms"],
+        "answer": "Reservation in jobs",
+        "explanation": "Mandal recommended 27% OBC reservations."
+      },
+      {
+        "id": 214,
+        "question": "Which commission gave report on Centre-State before Punchhi?",
+        "options": ["Narasimham", "Sarkaria", "Wanchoo", "Verma"],
+        "answer": "Sarkaria",
+        "explanation": "Sarkaria came earlier on Centre-State relations."
+      },
+      {
+        "id": 215,
+        "question": "Justice J.S. Verma Committee (2013) was constituted after:",
+        "options": ["Mumbai attacks", "Nirbhaya case", "Assam riots", "Telangana protests"],
+        "answer": "Nirbhaya case",
+        "explanation": "Recommended legal changes for crimes against women."
+      },
+      {
+        "id": 216,
+        "question": "Which committee recommended SEBI establishment?",
+        "options": ["Narasimham", "Abid Hussain", "Murthy", "Mehta"],
+        "answer": "Abid Hussain",
+        "explanation": "Abid Hussain recommended capital market reforms leading to SEBI."
+      },
+      {
+        "id": 217,
+        "question": "The Kelkar Committee is known for:",
+        "options": ["Telecom", "Indirect tax reforms", "Population", "University"],
+        "answer": "Indirect tax reforms",
+        "explanation": "Vijay Kelkar suggested indirect tax reforms and GST precursor."
+      },
+      {
+        "id": 218,
+        "question": "Which commission led to NITI Aayog?",
+        "options": ["Rangarajan", "Gadgil", "Planning Review", "None"],
+        "answer": "None",
+        "explanation": "NITI Aayog was created by executive resolution, not commission."
+      },
+      {
+        "id": 219,
+        "question": "The Malimath Committee worked on:",
+        "options": ["Police", "Criminal justice reforms", "Election spending", "Land laws"],
+        "answer": "Criminal justice reforms",
+        "explanation": "Justice Malimath recommended reforms in criminal justice 2003."
+      },
+      {
+        "id": 220,
+        "question": "The Committee on Banking Sector Reforms (1998) was headed by:",
+        "options": ["Reddy", "Raghuram Rajan", "Narasimham", "Parekh"],
+        "answer": "Narasimham",
+        "explanation": "Narasimham II Committee advised banking reforms."
+      },
+      {
+        "id": 221,
+        "question": "‘One Rank One Pension’ scheme was recommended by:",
+        "options": ["Koshiyari", "Gadgil", "Kelkar", "Punchhi"],
+        "answer": "Koshiyari",
+        "explanation": "Koshiyari Committee 2011 supported OROP."
+      },
+      {
+        "id": 222,
+        "question": "Which commission investigated the 1984 anti-Sikh riots?",
+        "options": ["Banerjee", "Liberhan", "Nanavati", "Shah"],
+        "answer": "Nanavati",
+        "explanation": "Justice Nanavati investigated 1984 riots."
+      },
+      {
+        "id": 223,
+        "question": "The Liberhan Commission (1992–2009) was related to:",
+        "options": ["Gujarat riots", "Bhopal gas", "Babri demolition", "Coal scam"],
+        "answer": "Babri demolition",
+        "explanation": "Liberhan probe on Babri mosque demolition."
+      },
+      {
+        "id": 224,
+        "question": "Which committee recommended FDI in retail?",
+        "options": ["Rangarajan", "Arvind Mayaram", "Abid Hussain", "Shome"],
+        "answer": "Arvind Mayaram",
+        "explanation": "Arvind Mayaram recommended changes to FDI including retail."
+      },
+      {
+        "id": 225,
+        "question": "The Justice Dharmadhikari Committee (2012) was about:",
+        "options": ["Reservations", "Merger of Air India and Indian Airlines", "Forest rights", "Education"],
+        "answer": "Merger of Air India and Indian Airlines",
+        "explanation": "Resolved HR issues of merger."
+      },
+      {
+        "id": 226,
+        "question": "Rangarajan Committee (2006) on:",
+        "options": ["Sugar", "Poverty line", "Telecom", "GST"],
+        "answer": "Poverty line",
+        "explanation": "Rangarajan suggested new poverty estimation methodology."
+      },
+      {
+        "id": 227,
+        "question": "Which authority was created based on Shah Commission?",
+        "options": ["CVC", "Lokpal", "SHRC", "None"],
+        "answer": "None",
+        "explanation": "Shah Commission investigated Emergency abuses but no authority created."
+      },
+      {
+        "id": 228,
+        "question": "The Raghuram Rajan Committee (2008) worked on:",
+        "options": ["Regional banking", "Financial sector reforms", "Regional development disparities", "Forex policy"],
+        "answer": "Regional development disparities",
+        "explanation": "Raghuram Rajan Committee proposed index on state backwarness."
+      },
+      {
+        "id": 229,
+        "question": "G.K. Chadha Committee (2007) dealt with:",
+        "options": ["Agriculture stats", "Higher education faculty reform", "Power tariff", "Climate change"],
+        "answer": "Higher education faculty reform",
+        "explanation": "Recommended faculty pay and HRD improvements."
+      },
+      {
+        "id": 230,
+        "question": "Who headed Committee on Doubling Farmers’ Income?",
+        "options": ["Raghuram Rajan", "Ashok Dalwai", "Nandan Nilekani", "Amitabh Kant"],
+        "answer": "Ashok Dalwai",
+        "explanation": "Ashok Dalwai Committee gave recommendations for doubling farmers’ income."
+      },
+      {
+        "id": 231,
+        "question": "The Sendai Framework (2015–2030) was adopted at:",
+        "options": ["Tokyo DRR", "Yokohama", "Sendai WCDRR", "Kyoto"],
+        "answer": "Sendai WCDRR",
+        "explanation": "It is the global framework for disaster risk reduction."
+      },
+      {
+        "id": 232,
+        "question": "Which UN Climate Conference failed to deliver binding treaty in 2009?",
+        "options": ["Paris COP21", "Kyoto COP3", "Copenhagen COP15", "Montreal COP11"],
+        "answer": "Copenhagen COP15",
+        "explanation": "COP15 2009 failed to achieve ambitious binding treaty."
+      },
+      {
+        "id": 233,
+        "question": "Which global conference is linked with Common but Differentiated Responsibilities principle?",
+        "options": ["Stockholm 1972", "Kyoto 1997", "Rio 1992", "Paris 2015"],
+        "answer": "Rio 1992",
+        "explanation": "CBDR was endorsed in Rio Earth Summit 1992."
+      },
+      {
+        "id": 234,
+        "question": "The Alma Ata Declaration (1978) came from a conference on:",
+        "options": ["Education", "Primary Health Care", "Trade", "Women empowerment"],
+        "answer": "Primary Health Care",
+        "explanation": "Alma Ata 1978, Kazakhstan emphasized 'Health for All'."
+      },
+      {
+        "id": 235,
+        "question": "The COP27 Climate Conference 2022 was held in:",
+        "options": ["Sharm el-Sheikh, Egypt", "Dubai, UAE", "Glasgow, UK", "New Delhi, India"],
+        "answer": "Sharm el-Sheikh, Egypt",
+        "explanation": "COP27 was hosted by Egypt."
+      }
+    ]
   }
 ]
